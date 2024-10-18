@@ -1,0 +1,4057 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "SDF: Special Deterrence Forces",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "444th Brigade",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Ambazonian Separatists (Cameroon)",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "ADF: The Ambazonia Defense Forces",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Cameroon)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Cameroon",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Niger)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Adoua Communal Group (Niger)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Mali",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "AIGE: Independent Election Management Authority (Mali)",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "JNIM: Group for Support of Islam and Muslims",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Am Dam Communal Militia (Chad)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Cameroon",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Islamic State West Africa Province (ISWAP)",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Amchide Communal Militia (Cameroon)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Anambra State Vigilante Service",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Sierra Leone",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "APC: All People's Congress (Sierra Leone)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "APC: All Progressives Congress",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Kaduna Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "PDP: People's Democratic Party",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "SDP: Social Democratic Party (Nigeria)",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Mali)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Arab Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Arab Ethnic Militia (Chad)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Chad)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Chad",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Asa Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Balma Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Bara II Communal Militia (Chad)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Boko Haram",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Niger)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Boussoura Communal Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "FNJT: National Front for Democracy and Justice",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "CCMSR: Military Command Council for the Salvation of the Republic",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Chad",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilian JTF: Civilian Joint Task Force",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Benin)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Benin",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Benin)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Tunisia)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Dozo Communal Militia (Burkina Faso)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Burkina Faso)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "ISGS: Islamic State in the Greater Sahara",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Burkina Faso",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Togo",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Burkina Faso)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "VDP: Volunteer for Defense of Homeland",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Cameroon)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Landguard Soldiers",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Ghana)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Ghana)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Guinea",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Guinea)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Guinea)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Morocco",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (International)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Libya",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Libya)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Libya)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Dan Na Ambassagou",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Dozo Communal Militia (Mali)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Mali",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Wagner Group",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Mauritania",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Mauritania)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Polisario Front",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Morocco)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Militia (Niger)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Communal Militia (Niger)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Ebube Agu Corps",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "EMOLVICE: Emohua Local Government Vigilante Service",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "IPOB: Indigenous Peoples of Biafra",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Ishinkwo Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Katsina Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Kuteb Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Mbasombo Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Niger Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Ojoto Community Vigilance Group",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Pirates (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Sokoto Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Tiv Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Umutu Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Cult Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Zamfara Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Sierra Leone)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Tunisia)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Tunisia",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Dan Musa Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Yorou Communal Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Dawsahak Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Deebam (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "RUSPAC: Rundele Security and Peace Advisory Council",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Diguiling Communal Militia (Guinea)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Tomba Kansah Communal Militia (Guinea)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Dogon Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Group (Burkina Faso)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Dutsinma Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Farrey Communal Militia (Niger)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Forest Guards (Mali)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Former Government of Burkina Faso",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Former Military Forces of Burkina Faso",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Group (Benin)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Idourfane Ethnic Militia (Mali)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "GATIA: Imghad Tuareg and Allies Self-Defense Group",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Gonja Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Mamprusi Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Burkina Faso",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Icelanders (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Greenlanders (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Hausa-Fulani Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Hunters Group of Nigeria",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Rafi Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Yola Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Idnan Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Idofin Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Illela Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Imghad Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Labbezanga Communal Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Niger",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Sudan",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "MSA: Movement for Azawad Salvation",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Niger",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Kourgui Communal Militia (Cameroon)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "MNJTF: Multinational Joint Task Force",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Mozogo Communal Militia (Cameroon)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Cameroon",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Waraga Communal Militia (Cameroon)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "MODELE: The Election Observation Mission in Mali",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Burkina Faso",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Mali",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Sabare Communal Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Yiguina Communal Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Jukun Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Jukun Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Kanoma Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Maitasine Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Keibane Communal Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Ketti Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Ghana",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Madina Communal Militia (Guinea)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Yiraya Communal Militia (Guinea)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Mbakume Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Mgbele Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Sawengua Communal Group (Burkina Faso)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "MRC: Movement for Renewal of Cameroon",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Chad)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Tsafe Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Mushere Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "NDC: National Democratic Congress (Ghana)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Neighbourhood Watch (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Oghior Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Okanle Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Ololi Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Orsu Obodo Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Oyo State Park Management System",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "RTEAN: Road Transport Employers Association of Nigeria",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Guinea",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Sabon Birni Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Soninke Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unguwan Bakutunbe Communal Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "id": "34",
+                "source": "SDF: Special Deterrence Forces",
+                "target": "444th Brigade",
+                "date_begin": "2023-05-28",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "260",
+                "source": "Ambazonian Separatists (Cameroon)",
+                "target": "ADF: The Ambazonia Defense Forces",
+                "date_begin": "2023-05-11",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 2,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "268",
+                "source": "ADF: The Ambazonia Defense Forces",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2023-05-11",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "272",
+                "source": "ADF: The Ambazonia Defense Forces",
+                "target": "Government of Cameroon",
+                "date_begin": "2023-05-20",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "287",
+                "source": "Unidentified Armed Group (Niger)",
+                "target": "Adoua Communal Group (Niger)",
+                "date_begin": "2023-06-08",
+                "date_end": "2023-07-08"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "476",
+                "source": "Government of Mali",
+                "target": "AIGE: Independent Election Management Authority (Mali)",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "477",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "AIGE: Independent Election Management Authority (Mali)",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "824",
+                "source": "Am Dam Communal Militia (Chad)",
+                "target": "Am Dam Communal Militia (Chad)",
+                "date_begin": "2023-06-14",
+                "date_end": "2023-07-14"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "878",
+                "source": "Ambazonian Separatists (Cameroon)",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2018-01-30",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "928",
+                "source": "Ambazonian Separatists (Cameroon)",
+                "target": "Government of Cameroon",
+                "date_begin": "2023-05-20",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "941",
+                "source": "Ambazonian Separatists (Cameroon)",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2022-03-29",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "1001",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Amchide Communal Militia (Cameroon)",
+                "date_begin": "2023-05-12",
+                "date_end": "2023-06-21"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "1049",
+                "source": "Military Forces of Nigeria",
+                "target": "Anambra State Vigilante Service",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "1052",
+                "source": "Police Forces of Nigeria",
+                "target": "Anambra State Vigilante Service",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "1056",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Anambra State Vigilante Service",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "1484",
+                "source": "Police Forces of Sierra Leone",
+                "target": "APC: All People's Congress (Sierra Leone)",
+                "date_begin": "2023-06-25",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1578",
+                "source": "APC: All Progressives Congress",
+                "target": "Government of Nigeria",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "1591",
+                "source": "Kaduna Communal Militia (Nigeria)",
+                "target": "APC: All Progressives Congress",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1635",
+                "source": "PDP: People's Democratic Party",
+                "target": "APC: All Progressives Congress",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 9,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1660",
+                "source": "APC: All Progressives Congress",
+                "target": "SDP: Social Democratic Party (Nigeria)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "2123",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Arab Ethnic Group (Mali)",
+                "date_begin": "2023-06-01",
+                "date_end": "2023-07-01"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "2151",
+                "source": "Arab Ethnic Militia (Chad)",
+                "target": "Civilians (Chad)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-14"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "2174",
+                "source": "Arab Ethnic Militia (Chad)",
+                "target": "Police Forces of Chad",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "2278",
+                "source": "Asa Communal Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "2485",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Balma Communal Group (Nigeria)",
+                "date_begin": "2023-06-11",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "2608",
+                "source": "Bara II Communal Militia (Chad)",
+                "target": "Civilians (Chad)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3071",
+                "source": "Boko Haram",
+                "target": "Boko Haram",
+                "date_begin": "2023-06-27",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 2,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3109",
+                "source": "Boko Haram",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2023-05-24",
+                "date_end": "2023-07-20"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3134",
+                "source": "Boko Haram",
+                "target": "Civilians (Niger)",
+                "date_begin": "2022-06-20",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3159",
+                "source": "Boko Haram",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3205",
+                "source": "Boko Haram",
+                "target": "Islamic State West Africa Province (ISWAP)",
+                "date_begin": "2023-06-23",
+                "date_end": "2023-07-23"
+            },
+            "intersA": 2,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3233",
+                "source": "Boko Haram",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-07-23"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "3265",
+                "source": "Boko Haram",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2022-06-16",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "3397",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Boussoura Communal Group (Mali)",
+                "date_begin": "2023-05-22",
+                "date_end": "2023-06-21"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3613",
+                "source": "FNJT: National Front for Democracy and Justice",
+                "target": "CCMSR: Military Command Council for the Salvation of the Republic",
+                "date_begin": "2023-05-31",
+                "date_end": "2023-06-30"
+            },
+            "intersA": 2,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3620",
+                "source": "Military Forces of Chad",
+                "target": "CCMSR: Military Command Council for the Salvation of the Republic",
+                "date_begin": "2023-05-31",
+                "date_end": "2023-06-30"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3835",
+                "source": "Civilian JTF: Civilian Joint Task Force",
+                "target": "Islamic State West Africa Province (ISWAP)",
+                "date_begin": "2023-05-06",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 3,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3875",
+                "source": "Military Forces of Nigeria",
+                "target": "Civilian JTF: Civilian Joint Task Force",
+                "date_begin": "2022-11-14",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "4169",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Civilians (Benin)",
+                "date_begin": "2023-03-02",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4180",
+                "source": "Military Forces of Benin",
+                "target": "Civilians (Benin)",
+                "date_begin": "2023-05-04",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4229",
+                "source": "Unidentified Armed Group (Benin)",
+                "target": "Civilians (Benin)",
+                "date_begin": "2023-01-30",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4232",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (Benin)",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4280",
+                "source": "Dozo Communal Militia (Burkina Faso)",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2023-06-16",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4302",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2022-03-10",
+                "date_end": "2023-07-29"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4313",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2018-09-09",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4371",
+                "source": "Military Forces of Burkina Faso",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2023-06-06",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4379",
+                "source": "Military Forces of Togo",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4446",
+                "source": "Unidentified Armed Group (Burkina Faso)",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2022-02-15",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4473",
+                "source": "VDP: Volunteer for Defense of Homeland",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-07-29"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4488",
+                "source": "Civilians (Nigeria)",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2023-06-20",
+                "date_end": "2023-07-21"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4501",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2023-06-20",
+                "date_end": "2023-07-21"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4508",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2021-08-20",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4532",
+                "source": "Military Forces of Cameroon",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2023-05-01",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4623",
+                "source": "Unidentified Armed Group (Cameroon)",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2021-12-16",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4663",
+                "source": "Civilians (Chad)",
+                "target": "Civilians (Chad)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-07-14"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4774",
+                "source": "Military Forces of Chad",
+                "target": "Civilians (Chad)",
+                "date_begin": "2023-06-16",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4833",
+                "source": "Civilians (Chad)",
+                "target": "Police Forces of Chad",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 7,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "5097",
+                "source": "Landguard Soldiers",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5242",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2022-07-19",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5334",
+                "source": "Military Forces of Guinea",
+                "target": "Civilians (Guinea)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5410",
+                "source": "Unidentified Armed Group (Guinea)",
+                "target": "Civilians (Guinea)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5591",
+                "source": "Military Forces of Morocco",
+                "target": "Civilians (International)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5884",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Civilians (International)",
+                "date_begin": "2023-05-03",
+                "date_end": "2023-06-30"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5897",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (International)",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6457",
+                "source": "Police Forces of Libya",
+                "target": "Civilians (Libya)",
+                "date_begin": "2023-06-01",
+                "date_end": "2023-07-01"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6540",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Civilians (Libya)",
+                "date_begin": "2023-04-27",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6609",
+                "source": "Dan Na Ambassagou",
+                "target": "Civilians (Mali)",
+                "date_begin": "2022-07-29",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6661",
+                "source": "Dozo Communal Militia (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6711",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Civilians (Mali)",
+                "date_begin": "2022-03-05",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6742",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Civilians (Mali)",
+                "date_begin": "2018-11-11",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6825",
+                "source": "Military Forces of Mali",
+                "target": "Civilians (Mali)",
+                "date_begin": "2022-03-01",
+                "date_end": "2023-07-28"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6955",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2017-01-04",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6969",
+                "source": "Wagner Group",
+                "target": "Civilians (Mali)",
+                "date_begin": "2022-03-02",
+                "date_end": "2023-07-28"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7013",
+                "source": "Police Forces of Mauritania",
+                "target": "Civilians (Mauritania)",
+                "date_begin": "2023-05-28",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7027",
+                "source": "Wagner Group",
+                "target": "Civilians (Mauritania)",
+                "date_begin": "2023-06-20",
+                "date_end": "2023-07-20"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7117",
+                "source": "Polisario Front",
+                "target": "Civilians (Morocco)",
+                "date_begin": "2023-05-20",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7178",
+                "source": "Civilians (Niger)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2023-06-30",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7201",
+                "source": "Fulani Ethnic Militia (Niger)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2023-06-30",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7211",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Civilians (Niger)",
+                "date_begin": "2022-05-02",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7246",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2023-04-15",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7267",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Civilians (Niger)",
+                "date_begin": "2022-06-14",
+                "date_end": "2023-06-21"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7387",
+                "source": "Unidentified Armed Group (Niger)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2020-08-22",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7400",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7414",
+                "source": "Unidentified Communal Militia (Niger)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7442",
+                "source": "Civilians (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2017-10-08",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7466",
+                "source": "Ebube Agu Corps",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7491",
+                "source": "EMOLVICE: Emohua Local Government Vigilante Service",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7553",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2017-10-08",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7698",
+                "source": "IPOB: Indigenous Peoples of Biafra",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-24",
+                "date_end": "2023-07-24"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7717",
+                "source": "Ishinkwo Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-06",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7730",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-04-11",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7773",
+                "source": "Kaduna Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2020-06-25",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7794",
+                "source": "Katsina Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-05-16",
+                "date_end": "2023-07-21"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7811",
+                "source": "Civilians (Nigeria)",
+                "target": "Kuteb Ethnic Militia (Nigeria)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 7,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "7848",
+                "source": "Mbasombo Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-09",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7970",
+                "source": "Military Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-04-25",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8031",
+                "source": "Niger Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2022-12-15",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8083",
+                "source": "Ojoto Community Vigilance Group",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-05-28",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8190",
+                "source": "Pirates (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-01",
+                "date_end": "2023-07-05"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8264",
+                "source": "Police Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2021-05-19",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8315",
+                "source": "Sokoto Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-05-15",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8384",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-06-05",
+                "date_end": "2023-07-05"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8414",
+                "source": "Civilians (Nigeria)",
+                "target": "Umutu Communal Militia (Nigeria)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 7,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "8432",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8535",
+                "source": "Unidentified Cult Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-02-09",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8602",
+                "source": "Zamfara Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2023-02-19",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8816",
+                "source": "Police Forces of Sierra Leone",
+                "target": "Civilians (Sierra Leone)",
+                "date_begin": "2023-05-23",
+                "date_end": "2023-06-22"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8817",
+                "source": "Police Forces of Sierra Leone",
+                "target": "Civilians (Sierra Leone)",
+                "date_begin": "2023-06-25",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8946",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2023-06-07",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9023",
+                "source": "Police Forces of Tunisia",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2023-06-01",
+                "date_end": "2023-07-01"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9094",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2023-04-10",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9319",
+                "source": "Katsina Communal Militia (Nigeria)",
+                "target": "Dan Musa Communal Militia (Nigeria)",
+                "date_begin": "2023-06-25",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "9388",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Dan Na Ambassagou",
+                "date_begin": "2021-01-31",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "9444",
+                "source": "Dan Na Ambassagou",
+                "target": "Yorou Communal Group (Mali)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9475",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Dawsahak Ethnic Group (Mali)",
+                "date_begin": "2023-04-25",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9489",
+                "source": "Military Forces of Mali",
+                "target": "Dawsahak Ethnic Group (Mali)",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9504",
+                "source": "Wagner Group",
+                "target": "Dawsahak Ethnic Group (Mali)",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9532",
+                "source": "Police Forces of Nigeria",
+                "target": "Deebam (Nigeria)",
+                "date_begin": "2023-05-31",
+                "date_end": "2023-06-30"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "9533",
+                "source": "Deebam (Nigeria)",
+                "target": "RUSPAC: Rundele Security and Peace Advisory Council",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-30"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "9568",
+                "source": "Diguiling Communal Militia (Guinea)",
+                "target": "Tomba Kansah Communal Militia (Guinea)",
+                "date_begin": "2023-06-07",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "9666",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Dogon Ethnic Group (Mali)",
+                "date_begin": "2023-05-19",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9804",
+                "source": "Dozo Communal Militia (Burkina Faso)",
+                "target": "Fulani Ethnic Group (Burkina Faso)",
+                "date_begin": "2023-06-16",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9826",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Dozo Communal Militia (Burkina Faso)",
+                "date_begin": "2023-06-18",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "9864",
+                "source": "VDP: Volunteer for Defense of Homeland",
+                "target": "Dozo Communal Militia (Burkina Faso)",
+                "date_begin": "2023-06-16",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "9904",
+                "source": "Dozo Communal Militia (Mali)",
+                "target": "Fulani Ethnic Group (Mali)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9930",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Dozo Communal Militia (Mali)",
+                "date_begin": "2023-03-17",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "9957",
+                "source": "Dozo Communal Militia (Mali)",
+                "target": "Military Forces of Mali",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "9996",
+                "source": "Katsina Communal Militia (Nigeria)",
+                "target": "Dutsinma Communal Militia (Nigeria)",
+                "date_begin": "2023-06-06",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "10017",
+                "source": "Military Forces of Nigeria",
+                "target": "Ebube Agu Corps",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "10022",
+                "source": "Police Forces of Nigeria",
+                "target": "Ebube Agu Corps",
+                "date_begin": "2023-06-15",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "10184",
+                "source": "EMOLVICE: Emohua Local Government Vigilante Service",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10287",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Farrey Communal Militia (Niger)",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "10385",
+                "source": "Military Forces of Chad",
+                "target": "FNJT: National Front for Democracy and Justice",
+                "date_begin": "2023-05-31",
+                "date_end": "2023-07-05"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "10434",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Forest Guards (Mali)",
+                "date_begin": "2023-05-19",
+                "date_end": "2023-07-08"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "10491",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Former Government of Burkina Faso",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-07-17"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10551",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Former Military Forces of Burkina Faso",
+                "date_begin": "2023-06-07",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10733",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Fulani Ethnic Group (Benin)",
+                "date_begin": "2023-03-20",
+                "date_end": "2023-07-15"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "10756",
+                "source": "Unidentified Armed Group (Benin)",
+                "target": "Fulani Ethnic Group (Benin)",
+                "date_begin": "2023-05-09",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "10781",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Fulani Ethnic Group (Burkina Faso)",
+                "date_begin": "2023-05-28",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "10851",
+                "source": "VDP: Volunteer for Defense of Homeland",
+                "target": "Fulani Ethnic Group (Burkina Faso)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "10927",
+                "source": "Military Forces of Mali",
+                "target": "Fulani Ethnic Group (Mali)",
+                "date_begin": "2022-10-30",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "10951",
+                "source": "Wagner Group",
+                "target": "Fulani Ethnic Group (Mali)",
+                "date_begin": "2023-01-20",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11046",
+                "source": "Katsina Communal Militia (Nigeria)",
+                "target": "Fulani Ethnic Group (Nigeria)",
+                "date_begin": "2023-05-27",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11118",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Fulani Ethnic Group (Nigeria)",
+                "date_begin": "2023-06-04",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11289",
+                "source": "Fulani Ethnic Militia (Niger)",
+                "target": "Unidentified Communal Militia (Niger)",
+                "date_begin": "2023-06-30",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11450",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2023-04-25",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "11604",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Umutu Communal Militia (Nigeria)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11619",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2023-06-08",
+                "date_end": "2023-07-08"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "11807",
+                "source": "Idourfane Ethnic Militia (Mali)",
+                "target": "GATIA: Imghad Tuareg and Allies Self-Defense Group",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11814",
+                "source": "GATIA: Imghad Tuareg and Allies Self-Defense Group",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "11898",
+                "source": "Wagner Group",
+                "target": "GATIA: Imghad Tuareg and Allies Self-Defense Group",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 8,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "12159",
+                "source": "Gonja Ethnic Militia (Ghana)",
+                "target": "Mamprusi Ethnic Militia (Ghana)",
+                "date_begin": "2023-06-01",
+                "date_end": "2023-07-01"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "12245",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Government of Burkina Faso",
+                "date_begin": "2023-05-08",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12480",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Government of Mali",
+                "date_begin": "2023-05-12",
+                "date_end": "2023-07-17"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12644",
+                "source": "Government of Nigeria",
+                "target": "SDP: Social Democratic Party (Nigeria)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 1,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "12753",
+                "source": "Icelanders (Nigeria)",
+                "target": "Greenlanders (Nigeria)",
+                "date_begin": "2023-06-08",
+                "date_end": "2023-07-08"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "12754",
+                "source": "Greenlanders (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-06-08",
+                "date_end": "2023-07-08"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12870",
+                "source": "Hausa-Fulani Ethnic Militia (Nigeria)",
+                "target": "Kuteb Ethnic Militia (Nigeria)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-06-20"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13009",
+                "source": "Niger Communal Militia (Nigeria)",
+                "target": "Hunters Group of Nigeria",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13023",
+                "source": "Police Forces of Nigeria",
+                "target": "Hunters Group of Nigeria",
+                "date_begin": "2023-05-02",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13025",
+                "source": "Rafi Communal Militia (Nigeria)",
+                "target": "Hunters Group of Nigeria",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13041",
+                "source": "Hunters Group of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2023-05-02",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "13044",
+                "source": "Hunters Group of Nigeria",
+                "target": "Yola Communal Militia (Nigeria)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13065",
+                "source": "Icelanders (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-06-08",
+                "date_end": "2023-07-08"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "13108",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Idnan Ethnic Group (Mali)",
+                "date_begin": "2023-06-09",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "13110",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Idofin Communal Group (Nigeria)",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "13121",
+                "source": "Idourfane Ethnic Militia (Mali)",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13122",
+                "source": "Wagner Group",
+                "target": "Idourfane Ethnic Militia (Mali)",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 8,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13308",
+                "source": "Illela Communal Militia (Nigeria)",
+                "target": "Sokoto Communal Militia (Nigeria)",
+                "date_begin": "2023-06-11",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13324",
+                "source": "Military Forces of Mali",
+                "target": "Imghad Ethnic Group (Mali)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "13328",
+                "source": "Wagner Group",
+                "target": "Imghad Ethnic Group (Mali)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "13423",
+                "source": "Police Forces of Nigeria",
+                "target": "IPOB: Indigenous Peoples of Biafra",
+                "date_begin": "2023-04-18",
+                "date_end": "2023-06-19"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13444",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-06-14",
+                "date_end": "2023-07-14"
+            },
+            "intersA": 2,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13450",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-03-09",
+                "date_end": "2023-07-21"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13453",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Labbezanga Communal Group (Mali)",
+                "date_begin": "2023-06-05",
+                "date_end": "2023-07-05"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "13459",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Military Forces of Burkina Faso",
+                "date_begin": "2023-02-10",
+                "date_end": "2023-06-26"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "13465",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "Military Forces of Mali",
+                "date_begin": "2022-08-07",
+                "date_end": "2023-06-21"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "13468",
+                "source": "Military Forces of Niger",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2022-07-29",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 8,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13473",
+                "source": "Military Forces of Sudan",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-05-15",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 8,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13485",
+                "source": "MSA: Movement for Azawad Salvation",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-06-25",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 3,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13499",
+                "source": "Police Forces of Niger",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-07-01"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13523",
+                "source": "ISGS: Islamic State in the Greater Sahara",
+                "target": "VDP: Volunteer for Defense of Homeland",
+                "date_begin": "2023-05-18",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13527",
+                "source": "Wagner Group",
+                "target": "ISGS: Islamic State in the Greater Sahara",
+                "date_begin": "2023-05-22",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 8,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "13528",
+                "source": "Ishinkwo Communal Militia (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-06-06",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "13953",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Kourgui Communal Militia (Cameroon)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13998",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2018-01-31",
+                "date_end": "2023-07-24"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14063",
+                "source": "Military Forces of Niger",
+                "target": "Islamic State West Africa Province (ISWAP)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-07-16"
+            },
+            "intersA": 8,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "14064",
+                "source": "Military Forces of Nigeria",
+                "target": "Islamic State West Africa Province (ISWAP)",
+                "date_begin": "2015-03-07",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "14093",
+                "source": "MNJTF: Multinational Joint Task Force",
+                "target": "Islamic State West Africa Province (ISWAP)",
+                "date_begin": "2023-01-20",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "14103",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Mozogo Communal Militia (Cameroon)",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "14127",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Police Forces of Cameroon",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14248",
+                "source": "Islamic State West Africa Province (ISWAP)",
+                "target": "Waraga Communal Militia (Cameroon)",
+                "date_begin": "2023-06-01",
+                "date_end": "2023-07-01"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "14664",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Military Forces of Benin",
+                "date_begin": "2023-04-15",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14673",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Military Forces of Burkina Faso",
+                "date_begin": "2021-02-24",
+                "date_end": "2023-07-29"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14688",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Military Forces of Mali",
+                "date_begin": "2022-12-08",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14712",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Military Forces of Niger",
+                "date_begin": "2023-06-21",
+                "date_end": "2023-07-21"
+            },
+            "intersA": 4,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "14737",
+                "source": "Military Forces of Togo",
+                "target": "JNIM: Group for Support of Islam and Muslims",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "14749",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2022-01-22",
+                "date_end": "2023-07-23"
+            },
+            "intersA": 4,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "14752",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "MODELE: The Election Observation Mission in Mali",
+                "date_begin": "2023-06-18",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14801",
+                "source": "Police Forces of Burkina Faso",
+                "target": "JNIM: Group for Support of Islam and Muslims",
+                "date_begin": "2021-06-10",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "14826",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Police Forces of Mali",
+                "date_begin": "2022-11-30",
+                "date_end": "2023-07-23"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "14855",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Sabare Communal Group (Mali)",
+                "date_begin": "2023-06-22",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "14892",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Unidentified Armed Group (Mali)",
+                "date_begin": "2023-06-07",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14900",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "VDP: Volunteer for Defense of Homeland",
+                "date_begin": "2020-12-31",
+                "date_end": "2023-07-28"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "14903",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Wagner Group",
+                "date_begin": "2022-07-14",
+                "date_end": "2023-07-14"
+            },
+            "intersA": 4,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "14906",
+                "source": "JNIM: Group for Support of Islam and Muslims",
+                "target": "Yiguina Communal Group (Mali)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "14927",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Jukun Ethnic Group (Nigeria)",
+                "date_begin": "2023-06-05",
+                "date_end": "2023-07-05"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "14963",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Jukun Ethnic Militia (Nigeria)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15001",
+                "source": "Military Forces of Nigeria",
+                "target": "Kaduna Communal Militia (Nigeria)",
+                "date_begin": "2023-05-18",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15101",
+                "source": "Zamfara Communal Militia (Nigeria)",
+                "target": "Kanoma Communal Militia (Nigeria)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15302",
+                "source": "Katsina Communal Militia (Nigeria)",
+                "target": "Maitasine Communal Militia (Nigeria)",
+                "date_begin": "2023-06-12",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15320",
+                "source": "Military Forces of Nigeria",
+                "target": "Katsina Communal Militia (Nigeria)",
+                "date_begin": "2023-06-04",
+                "date_end": "2023-07-04"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15337",
+                "source": "Katsina Communal Militia (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-02-14",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "15374",
+                "source": "Wagner Group",
+                "target": "Keibane Communal Group (Mali)",
+                "date_begin": "2023-06-11",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "15385",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Ketti Communal Group (Nigeria)",
+                "date_begin": "2023-06-03",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "15581",
+                "source": "Police Forces of Ghana",
+                "target": "Landguard Soldiers",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 1,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "15807",
+                "source": "Madina Communal Militia (Guinea)",
+                "target": "Yiraya Communal Militia (Guinea)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15951",
+                "source": "Mbakume Communal Militia (Nigeria)",
+                "target": "Mbasombo Communal Militia (Nigeria)",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "16142",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Mgbele Communal Group (Nigeria)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "16381",
+                "source": "Police Forces of Burkina Faso",
+                "target": "Military Forces of Burkina Faso",
+                "date_begin": "2023-05-22",
+                "date_end": "2023-06-21"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16384",
+                "source": "Military Forces of Burkina Faso",
+                "target": "Sawengua Communal Group (Burkina Faso)",
+                "date_begin": "2023-06-06",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "16407",
+                "source": "VDP: Volunteer for Defense of Homeland",
+                "target": "Military Forces of Burkina Faso",
+                "date_begin": "2021-02-11",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16423",
+                "source": "Military Forces of Cameroon",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16456",
+                "source": "MNJTF: Multinational Joint Task Force",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2023-06-12",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16460",
+                "source": "Military Forces of Cameroon",
+                "target": "MRC: Movement for Renewal of Cameroon",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "16539",
+                "source": "Unidentified Armed Group (Cameroon)",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-07-20"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16699",
+                "source": "Unidentified Armed Group (Chad)",
+                "target": "Military Forces of Chad",
+                "date_begin": "2023-06-07",
+                "date_end": "2023-07-07"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16914",
+                "source": "Military Forces of Guinea",
+                "target": "Unidentified Armed Group (Guinea)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "17737",
+                "source": "Military Forces of Mali",
+                "target": "Wagner Group",
+                "date_begin": "2022-09-28",
+                "date_end": "2023-07-28"
+            },
+            "intersA": 1,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "17804",
+                "source": "Military Forces of Niger",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 8,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17819",
+                "source": "Military Forces of Niger",
+                "target": "Military Forces of Sudan",
+                "date_begin": "2023-05-15",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 8,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "17846",
+                "source": "MNJTF: Multinational Joint Task Force",
+                "target": "Military Forces of Niger",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 1,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "17876",
+                "source": "Military Forces of Niger",
+                "target": "Police Forces of Niger",
+                "date_begin": "2023-06-26",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 8,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17925",
+                "source": "Military Forces of Niger",
+                "target": "Unidentified Armed Group (Niger)",
+                "date_begin": "2023-05-28",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 8,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "17961",
+                "source": "Military Forces of Nigeria",
+                "target": "MNJTF: Multinational Joint Task Force",
+                "date_begin": "2023-05-10",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18151",
+                "source": "Military Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-05-12",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18192",
+                "source": "Military Forces of Nigeria",
+                "target": "Tsafe Communal Militia (Nigeria)",
+                "date_begin": "2023-06-05",
+                "date_end": "2023-07-05"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "18281",
+                "source": "Military Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2022-10-27",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18300",
+                "source": "Unidentified Cult Militia (Nigeria)",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2023-06-25",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18332",
+                "source": "Zamfara Communal Militia (Nigeria)",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2023-03-12",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18701",
+                "source": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2023-06-13",
+                "date_end": "2023-07-13"
+            },
+            "intersA": 8,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "18859",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "MODELE: The Election Observation Mission in Mali",
+                "date_begin": "2023-06-18",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18956",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Mushere Communal Group (Nigeria)",
+                "date_begin": "2023-06-11",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "19094",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "NDC: National Democratic Congress (Ghana)",
+                "date_begin": "2023-06-27",
+                "date_end": "2023-07-27"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19107",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Neighbourhood Watch (Nigeria)",
+                "date_begin": "2023-06-22",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19141",
+                "source": "Niger Communal Militia (Nigeria)",
+                "target": "Rafi Communal Militia (Nigeria)",
+                "date_begin": "2023-06-10",
+                "date_end": "2023-07-10"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19334",
+                "source": "Police Forces of Nigeria",
+                "target": "Oghior Communal Militia (Nigeria)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19336",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Oghior Communal Militia (Nigeria)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19367",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Okanle Communal Militia (Nigeria)",
+                "date_begin": "2023-06-19",
+                "date_end": "2023-07-19"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19402",
+                "source": "Sokoto Communal Militia (Nigeria)",
+                "target": "Ololi Communal Militia (Nigeria)",
+                "date_begin": "2023-06-09",
+                "date_end": "2023-07-09"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19507",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Orsu Obodo Communal Group (Nigeria)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-24"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "19553",
+                "source": "Police Forces of Nigeria",
+                "target": "Oyo State Park Management System",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19554",
+                "source": "Oyo State Park Management System",
+                "target": "RTEAN: Road Transport Employers Association of Nigeria",
+                "date_begin": "2023-05-29",
+                "date_end": "2023-06-28"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19699",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "PDP: People's Democratic Party",
+                "date_begin": "2023-06-12",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "19732",
+                "source": "Pirates (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-06-26",
+                "date_end": "2023-07-26"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19864",
+                "source": "VDP: Volunteer for Defense of Homeland",
+                "target": "Police Forces of Burkina Faso",
+                "date_begin": "2023-01-12",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19866",
+                "source": "Police Forces of Cameroon",
+                "target": "Police Forces of Cameroon",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19949",
+                "source": "Unidentified Armed Group (Guinea)",
+                "target": "Police Forces of Guinea",
+                "date_begin": "2023-06-22",
+                "date_end": "2023-07-22"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20149",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Police Forces of Mali",
+                "date_begin": "2023-06-18",
+                "date_end": "2023-07-18"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20271",
+                "source": "Police Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-05-15",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20284",
+                "source": "Police Forces of Nigeria",
+                "target": "RUSPAC: Rundele Security and Peace Advisory Council",
+                "date_begin": "2023-05-31",
+                "date_end": "2023-06-30"
+            },
+            "intersA": 1,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "20428",
+                "source": "Police Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2022-02-09",
+                "date_end": "2023-07-25"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20461",
+                "source": "Unidentified Cult Militia (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-05-21",
+                "date_end": "2023-07-12"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20474",
+                "source": "Police Forces of Nigeria",
+                "target": "Yola Communal Militia (Nigeria)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "20497",
+                "source": "Zamfara Communal Militia (Nigeria)",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2023-03-05",
+                "date_end": "2023-07-03"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20799",
+                "source": "Sokoto Communal Militia (Nigeria)",
+                "target": "Sabon Birni Communal Militia (Nigeria)",
+                "date_begin": "2023-05-30",
+                "date_end": "2023-06-29"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "20847",
+                "source": "VDP: Volunteer for Defense of Homeland",
+                "target": "Sawengua Communal Group (Burkina Faso)",
+                "date_begin": "2023-06-06",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "20960",
+                "source": "Wagner Group",
+                "target": "Soninke Ethnic Group (Mali)",
+                "date_begin": "2023-06-11",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "21115",
+                "source": "Zamfara Communal Militia (Nigeria)",
+                "target": "Tsafe Communal Militia (Nigeria)",
+                "date_begin": "2023-06-05",
+                "date_end": "2023-07-06"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21226",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Unguwan Bakutunbe Communal Group (Nigeria)",
+                "date_begin": "2023-06-11",
+                "date_end": "2023-07-11"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "21243",
+                "source": "Unidentified Armed Group (Benin)",
+                "target": "Unidentified Armed Group (Benin)",
+                "date_begin": "2023-05-25",
+                "date_end": "2023-06-27"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21364",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Wagner Group",
+                "date_begin": "2023-06-29",
+                "date_end": "2023-07-29"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "21478",
+                "source": "Yola Communal Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2023-05-26",
+                "date_end": "2023-06-25"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21574",
+                "source": "Unidentified Cult Militia (Nigeria)",
+                "target": "Unidentified Cult Militia (Nigeria)",
+                "date_begin": "2023-04-07",
+                "date_end": "2023-07-30"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21654",
+                "source": "Zamfara Communal Militia (Nigeria)",
+                "target": "Zamfara Communal Militia (Nigeria)",
+                "date_begin": "2023-06-29",
+                "date_end": "2023-07-29"
+            },
+            "intersA": 4,
+            "intersB": 4
+        }
+    ]
+}

@@ -1,0 +1,5628 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "AC: Action Congress",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "AD: Alliance for Democracy",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Ivory Coast",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "ADDR: Authority for Disarmament, Demobilization and Reintegration",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Ivory Coast)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Agatu Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Tiv Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Agatu Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "AIYO: Association of Igbo Youth Organisation",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Igbo Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Toubou Ethnic Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Al-Shourafa Ethnic Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Libya",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Al Qaeda",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of United States",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Alago Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Eggon Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Eggon Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Nkonya Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Alavanyo Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Benin)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "ALCRER: Association against Racism, Ethnocentrism and Regionalism",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Private Security Forces (Nigeria)",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "ANPP: All Nigeria People's Party",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Ansar al-Sharia (Libya)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Libya)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Tunisia",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Ansar al-Sharia (Tunisia)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Tunisia",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Ansar Dine",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "MNLA: National Movement for the Liberation of Azawad",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Boko Haram",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Ansaru",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (International)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "APC: All Progressives Congress",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "APGA: All Progressives Grand Alliance Party",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "EBC: Ekiti Bibire Coalition",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "PDP: People's Democratic Party",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Private Security Forces (Senegal)",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "APR: Alliance for the Republic",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Senegal)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Algeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Algeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of France",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Mali",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Mali)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Mauritania)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Arab Ethnic Militia (Mali)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Baoule Ethnic Militia (Ivory Coast)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Ethnic Militia (Ivory Coast)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Berom Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Hausa Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Red Flag Movement",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Black Flag Movement",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "BVYG: Borno Vigilance Youths Group",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Cameroon)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Niger",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Militia (Ali Kwara)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Shuwa Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Christian Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Algeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Algeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Benin)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Burkina Faso)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Burkina Faso)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Cameroon",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Cameroon",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Cameroon)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Chad)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Ghana)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Ghana",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "NPP: New Patriotic Party",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Ghana",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Ghana)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Guinea-Bissau)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Guinea-Bissau)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Guinea",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Guinea)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "UFDG: Union of Democratic Forces of Guinea",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Morocco",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Ivory Coast)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Militia (Pro-Alassane Ouattara)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Friends of PYJ Militia",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Liberia)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Liberia",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Private Security Forces (Liberia)",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Sahnquoi Communal Militia (Liberia)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Liberia)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "LROR: Libya Revolutionaries Operations Room",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Libya)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Misratah Communal Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Libya",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Militia (Mali)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Tuareg Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Tuareg Ethnic Militia (Mali)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Morocco",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Morocco)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Militia (Students)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Muslim Militia (Morocco)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Morocco)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Niger)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Niger)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Egbema Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "MEND: Movement for the Emancipation of the Niger Delta",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Militia (Effiong Mbukpa)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Moroa Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Olpoma Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Tarok Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Tarok Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Tiv Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Uwheru Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Senegal",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Senegal)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Senegal",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Sierra Leone",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Sierra Leone)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Moba Communal Militia (Togo)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Togo)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Islamist Militia (Tunisia)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Civilians (Tunisia)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "LPR: League for the Protection of the Revolution",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Tunisia)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "CPC: Congress for Progressive Change",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Ede Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Ido-Osun Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Itsekiri Ethnic Group (Nigeria)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "February 20 Movement",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Former Military Forces of Ivory Coast",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Ivory Coast",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Former Military Forces of Libya",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Group (Mali)",
+                "color": "#8B0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Fulani Ethnic Militia (Togo)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Zintan Ethnic Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Garamna Ethnic Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Nakpando Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Gbadagbam Ethnic Militia (Ghana)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of France",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Italy",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Ivory Coast",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Libya",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Mali",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of Pakistan",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Government of United Arab Emirates",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Guere Ethnic Militia (Ivory Coast)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Malinke Ethnic Militia (Ivory Coast)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Konianke Ethnic Militia (Guinea)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Guerze Ethnic Militia (Guinea)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Clan Militia (Somalia)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Islamist Militia (Algeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Islamist Militia (Mali)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "PF: Popular Front",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Kalabari Ethnic Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Kidal Communal Militia (Mali)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Libya Shield Brigade",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "LP: Labor Party",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "Yacouba Ethnic Militia (Ivory Coast)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Omelugboma Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Medina Beye Communal Militia (Senegal)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Ndiobene Galo Communal Militia (Senegal)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Military Forces of Burkina Faso",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Seleka Rebel Coalition",
+                "color": "#87CEEB"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Central African Republic)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Wershefana Communal Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Zawiya Communal Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Zwai Ethnic Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Those Who Signed in Blood",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Mutiny of Military Forces of Nigeria",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Pirates (Nigeria)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Tripoli Communal Militia (Libya)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "MLK: Free Karim Movement",
+                "color": "#FF0000"
+            }
+        },
+        {
+            "data": {
+                "id": "MRC: Movement for Renewal of Cameroon",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Muslim Militia (Togo)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Nanan Communal Militia (Ivory Coast)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Onitsha Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Obosi Communal Militia (Nigeria)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "Okada Motorcycle Militia",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "OPC: Oodua Peoples Congress",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "RPG: Rally of the Guinean People",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Guinea",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (Guinea)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Police Forces of Mauritania",
+                "color": "#ADD8E6"
+            }
+        },
+        {
+            "data": {
+                "id": "Unidentified Armed Group (China)",
+                "color": "#4682B4"
+            }
+        },
+        {
+            "data": {
+                "id": "Private Security Forces (Libya)",
+                "color": "#B22222"
+            }
+        },
+        {
+            "data": {
+                "id": "Tenkodogo Communal Militia (Burkina Faso)",
+                "color": "#1E90FF"
+            }
+        },
+        {
+            "data": {
+                "id": "UNR: Union for the New Republic",
+                "color": "#4682B4"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "id": "175",
+                "source": "AC: Action Congress",
+                "target": "AD: Alliance for Democracy",
+                "date_begin": "2013-08-26",
+                "date_end": "2013-09-25"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "239",
+                "source": "Military Forces of Ivory Coast",
+                "target": "ADDR: Authority for Disarmament, Demobilization and Reintegration",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "240",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "ADDR: Authority for Disarmament, Demobilization and Reintegration",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "396",
+                "source": "Civilians (Nigeria)",
+                "target": "Agatu Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-10",
+                "date_end": "2013-12-10"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "397",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Agatu Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-10",
+                "date_end": "2013-12-10"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "398",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Agatu Ethnic Group (Nigeria)",
+                "date_begin": "2013-10-13",
+                "date_end": "2013-11-12"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "405",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Agatu Ethnic Militia (Nigeria)",
+                "date_begin": "2013-06-04",
+                "date_end": "2013-07-04"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "484",
+                "source": "AIYO: Association of Igbo Youth Organisation",
+                "target": "Igbo Ethnic Militia (Nigeria)",
+                "date_begin": "2013-07-14",
+                "date_end": "2013-08-13"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "485",
+                "source": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "target": "AIYO: Association of Igbo Youth Organisation",
+                "date_begin": "2013-07-14",
+                "date_end": "2013-08-13"
+            },
+            "intersA": 2,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "632",
+                "source": "Toubou Ethnic Militia (Libya)",
+                "target": "Al-Shourafa Ethnic Militia (Libya)",
+                "date_begin": "2013-06-03",
+                "date_end": "2013-07-03"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "739",
+                "source": "Military Forces of Libya",
+                "target": "Al Qaeda",
+                "date_begin": "2013-10-05",
+                "date_end": "2013-11-04"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "741",
+                "source": "Military Forces of United States",
+                "target": "Al Qaeda",
+                "date_begin": "2013-10-05",
+                "date_end": "2013-11-04"
+            },
+            "intersA": 8,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "774",
+                "source": "Alago Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-10-30"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "775",
+                "source": "Alago Ethnic Militia (Nigeria)",
+                "target": "Eggon Ethnic Group (Nigeria)",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-10-30"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "776",
+                "source": "Eggon Ethnic Militia (Nigeria)",
+                "target": "Alago Ethnic Militia (Nigeria)",
+                "date_begin": "2013-09-13",
+                "date_end": "2013-10-14"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "787",
+                "source": "Nkonya Ethnic Militia (Ghana)",
+                "target": "Alavanyo Ethnic Militia (Ghana)",
+                "date_begin": "2013-06-24",
+                "date_end": "2013-07-24"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "788",
+                "source": "Unidentified Armed Group (Benin)",
+                "target": "ALCRER: Association against Racism, Ethnocentrism and Regionalism",
+                "date_begin": "2013-12-09",
+                "date_end": "2014-01-08"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "1124",
+                "source": "Private Security Forces (Nigeria)",
+                "target": "ANPP: All Nigeria People's Party",
+                "date_begin": "2013-07-07",
+                "date_end": "2013-08-06"
+            },
+            "intersA": 8,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "1134",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "ANPP: All Nigeria People's Party",
+                "date_begin": "2013-07-07",
+                "date_end": "2013-08-06"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "1135",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "ANPP: All Nigeria People's Party",
+                "date_begin": "2013-12-01",
+                "date_end": "2013-12-31"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "1173",
+                "source": "Ansar al-Sharia (Libya)",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-11-25",
+                "date_end": "2013-12-28"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "1194",
+                "source": "Ansar al-Sharia (Libya)",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-10-14",
+                "date_end": "2013-11-13"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1195",
+                "source": "Ansar al-Sharia (Libya)",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-12-01",
+                "date_end": "2013-12-31"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1206",
+                "source": "Military Forces of Tunisia",
+                "target": "Ansar al-Sharia (Tunisia)",
+                "date_begin": "2013-08-04",
+                "date_end": "2013-09-03"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1207",
+                "source": "Military Forces of Tunisia",
+                "target": "Ansar al-Sharia (Tunisia)",
+                "date_begin": "2013-09-09",
+                "date_end": "2013-10-09"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1208",
+                "source": "Military Forces of Tunisia",
+                "target": "Ansar al-Sharia (Tunisia)",
+                "date_begin": "2013-10-17",
+                "date_end": "2013-11-18"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1213",
+                "source": "Police Forces of Tunisia",
+                "target": "Ansar al-Sharia (Tunisia)",
+                "date_begin": "2013-10-17",
+                "date_end": "2013-11-16"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1309",
+                "source": "Ansar Dine",
+                "target": "MNLA: National Movement for the Liberation of Azawad",
+                "date_begin": "2013-08-18",
+                "date_end": "2013-09-17"
+            },
+            "intersA": 2,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "1426",
+                "source": "Boko Haram",
+                "target": "Ansaru",
+                "date_begin": "2013-11-13",
+                "date_end": "2013-12-13"
+            },
+            "intersA": 2,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1428",
+                "source": "Ansaru",
+                "target": "Civilians (International)",
+                "date_begin": "2013-11-13",
+                "date_end": "2013-12-13"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "1510",
+                "source": "APC: All Progressives Congress",
+                "target": "APGA: All Progressives Grand Alliance Party",
+                "date_begin": "2013-11-01",
+                "date_end": "2013-12-01"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1520",
+                "source": "APC: All Progressives Congress",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-11-01",
+                "date_end": "2013-12-03"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "1548",
+                "source": "APC: All Progressives Congress",
+                "target": "EBC: Ekiti Bibire Coalition",
+                "date_begin": "2013-11-03",
+                "date_end": "2013-12-03"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1615",
+                "source": "PDP: People's Democratic Party",
+                "target": "APC: All Progressives Congress",
+                "date_begin": "2013-12-22",
+                "date_end": "2014-02-11"
+            },
+            "intersA": 9,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1662",
+                "source": "APC: All Progressives Congress",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-08-24",
+                "date_end": "2013-09-23"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1663",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "APC: All Progressives Congress",
+                "date_begin": "2013-12-23",
+                "date_end": "2014-04-01"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1760",
+                "source": "Private Security Forces (Senegal)",
+                "target": "APR: Alliance for the Republic",
+                "date_begin": "2013-09-06",
+                "date_end": "2013-10-06"
+            },
+            "intersA": 8,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1762",
+                "source": "Unidentified Armed Group (Senegal)",
+                "target": "APR: Alliance for the Republic",
+                "date_begin": "2013-09-06",
+                "date_end": "2013-10-06"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "1800",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Civilians (Algeria)",
+                "date_begin": "2013-10-04",
+                "date_end": "2013-11-03"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "1822",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Civilians (International)",
+                "date_begin": "2013-11-02",
+                "date_end": "2013-12-02"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "1887",
+                "source": "Military Forces of Algeria",
+                "target": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "date_begin": "2013-07-01",
+                "date_end": "2014-01-12"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "1924",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Military Forces of France",
+                "date_begin": "2013-10-30",
+                "date_end": "2014-01-07"
+            },
+            "intersA": 2,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "1949",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-09-28",
+                "date_end": "2013-10-28"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "1950",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-10-30",
+                "date_end": "2013-11-29"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "1994",
+                "source": "Military Forces of Tunisia",
+                "target": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "date_begin": "2013-06-01",
+                "date_end": "2013-07-06"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "2003",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2013-10-23",
+                "date_end": "2013-11-22"
+            },
+            "intersA": 2,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "2059",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Unidentified Armed Group (Mali)",
+                "date_begin": "2013-10-16",
+                "date_end": "2013-12-10"
+            },
+            "intersA": 2,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "2062",
+                "source": "AQIM: Al Qaeda in the Islamic Maghreb",
+                "target": "Unidentified Armed Group (Mauritania)",
+                "date_begin": "2013-12-04",
+                "date_end": "2014-01-03"
+            },
+            "intersA": 2,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "2200",
+                "source": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "target": "Arab Ethnic Militia (Mali)",
+                "date_begin": "2013-08-29",
+                "date_end": "2013-09-28"
+            },
+            "intersA": 8,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "2202",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Arab Ethnic Militia (Mali)",
+                "date_begin": "2013-08-29",
+                "date_end": "2013-09-28"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "2597",
+                "source": "Baoule Ethnic Militia (Ivory Coast)",
+                "target": "Unidentified Ethnic Militia (Ivory Coast)",
+                "date_begin": "2013-07-10",
+                "date_end": "2013-08-09"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "2794",
+                "source": "Civilians (Nigeria)",
+                "target": "Berom Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-26",
+                "date_end": "2013-12-26"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "2809",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Berom Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-24",
+                "date_end": "2013-12-26"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "2816",
+                "source": "Hausa Ethnic Militia (Nigeria)",
+                "target": "Berom Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-24",
+                "date_end": "2013-12-24"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3027",
+                "source": "Red Flag Movement",
+                "target": "Black Flag Movement",
+                "date_begin": "2013-09-14",
+                "date_end": "2013-10-14"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "3072",
+                "source": "BVYG: Borno Vigilance Youths Group",
+                "target": "Boko Haram",
+                "date_begin": "2013-07-03",
+                "date_end": "2013-11-29"
+            },
+            "intersA": 3,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3073",
+                "source": "BVYG: Borno Vigilance Youths Group",
+                "target": "Boko Haram",
+                "date_begin": "2013-12-01",
+                "date_end": "2013-12-31"
+            },
+            "intersA": 3,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3096",
+                "source": "Boko Haram",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2013-12-14",
+                "date_end": "2014-01-13"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3121",
+                "source": "Boko Haram",
+                "target": "Civilians (International)",
+                "date_begin": "2013-11-13",
+                "date_end": "2013-12-13"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3167",
+                "source": "Boko Haram",
+                "target": "Fulani Ethnic Group (Nigeria)",
+                "date_begin": "2013-08-21",
+                "date_end": "2013-09-20"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "3178",
+                "source": "Boko Haram",
+                "target": "Government of Nigeria",
+                "date_begin": "2013-09-05",
+                "date_end": "2013-10-05"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "3237",
+                "source": "Boko Haram",
+                "target": "Military Forces of Niger",
+                "date_begin": "2013-06-01",
+                "date_end": "2013-07-01"
+            },
+            "intersA": 2,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "3252",
+                "source": "Military Forces of Nigeria",
+                "target": "Boko Haram",
+                "date_begin": "2012-06-05",
+                "date_end": "2015-04-05"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3267",
+                "source": "Boko Haram",
+                "target": "Militia (Ali Kwara)",
+                "date_begin": "2013-06-10",
+                "date_end": "2013-07-10"
+            },
+            "intersA": 2,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "3295",
+                "source": "Police Forces of Nigeria",
+                "target": "Boko Haram",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-27"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3296",
+                "source": "Police Forces of Nigeria",
+                "target": "Boko Haram",
+                "date_begin": "2013-08-04",
+                "date_end": "2013-10-19"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3297",
+                "source": "Police Forces of Nigeria",
+                "target": "Boko Haram",
+                "date_begin": "2013-10-24",
+                "date_end": "2013-12-19"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3309",
+                "source": "Shuwa Ethnic Militia (Nigeria)",
+                "target": "Boko Haram",
+                "date_begin": "2013-08-31",
+                "date_end": "2013-09-30"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3322",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Boko Haram",
+                "date_begin": "2013-06-07",
+                "date_end": "2013-07-28"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3323",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Boko Haram",
+                "date_begin": "2013-08-25",
+                "date_end": "2013-10-14"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3324",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Boko Haram",
+                "date_begin": "2013-11-12",
+                "date_end": "2013-12-29"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "3591",
+                "source": "BVYG: Borno Vigilance Youths Group",
+                "target": "BVYG: Borno Vigilance Youths Group",
+                "date_begin": "2013-08-02",
+                "date_end": "2013-09-01"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "3594",
+                "source": "Military Forces of Nigeria",
+                "target": "BVYG: Borno Vigilance Youths Group",
+                "date_begin": "2013-07-16",
+                "date_end": "2013-09-19"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "3600",
+                "source": "BVYG: Borno Vigilance Youths Group",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-09-14",
+                "date_end": "2013-10-14"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "3787",
+                "source": "Christian Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-07-24",
+                "date_end": "2013-08-23"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "4006",
+                "source": "Police Forces of Algeria",
+                "target": "Civilians (Algeria)",
+                "date_begin": "2013-07-07",
+                "date_end": "2013-08-06"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4007",
+                "source": "Police Forces of Algeria",
+                "target": "Civilians (Algeria)",
+                "date_begin": "2013-09-29",
+                "date_end": "2013-10-29"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4008",
+                "source": "Police Forces of Algeria",
+                "target": "Civilians (Algeria)",
+                "date_begin": "2013-11-25",
+                "date_end": "2013-12-25"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4065",
+                "source": "Unidentified Armed Group (Algeria)",
+                "target": "Civilians (Algeria)",
+                "date_begin": "2013-06-05",
+                "date_end": "2013-07-05"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4066",
+                "source": "Unidentified Armed Group (Algeria)",
+                "target": "Civilians (Algeria)",
+                "date_begin": "2013-07-12",
+                "date_end": "2013-11-02"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4209",
+                "source": "Unidentified Armed Group (Benin)",
+                "target": "Civilians (Benin)",
+                "date_begin": "2013-12-09",
+                "date_end": "2014-01-08"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4432",
+                "source": "Unidentified Armed Group (Burkina Faso)",
+                "target": "Civilians (Burkina Faso)",
+                "date_begin": "2013-10-15",
+                "date_end": "2013-11-14"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4522",
+                "source": "Military Forces of Cameroon",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2013-09-29",
+                "date_end": "2013-10-29"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4554",
+                "source": "Police Forces of Cameroon",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2013-08-09",
+                "date_end": "2013-09-08"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4600",
+                "source": "Unidentified Armed Group (Cameroon)",
+                "target": "Civilians (Cameroon)",
+                "date_begin": "2013-07-15",
+                "date_end": "2013-09-14"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "4909",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Civilians (Chad)",
+                "date_begin": "2013-12-23",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5012",
+                "source": "Civilians (Ghana)",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-27"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5045",
+                "source": "Fulani Ethnic Militia (Ghana)",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5102",
+                "source": "Military Forces of Ghana",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-06-23",
+                "date_end": "2013-07-23"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5143",
+                "source": "NPP: New Patriotic Party",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-11-03",
+                "date_end": "2013-12-03"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5160",
+                "source": "Police Forces of Ghana",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-10-08",
+                "date_end": "2013-11-07"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5211",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-05-08",
+                "date_end": "2013-07-21"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5212",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-10-04",
+                "date_end": "2013-11-03"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5213",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "Civilians (Ghana)",
+                "date_begin": "2013-11-04",
+                "date_end": "2013-12-04"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5283",
+                "source": "Unidentified Armed Group (Guinea-Bissau)",
+                "target": "Civilians (Guinea-Bissau)",
+                "date_begin": "2013-11-05",
+                "date_end": "2013-12-05"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5316",
+                "source": "Military Forces of Guinea",
+                "target": "Civilians (Guinea)",
+                "date_begin": "2013-09-17",
+                "date_end": "2013-10-17"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5384",
+                "source": "UFDG: Union of Democratic Forces of Guinea",
+                "target": "Civilians (Guinea)",
+                "date_begin": "2013-08-29",
+                "date_end": "2013-10-05"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5419",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (Guinea)",
+                "date_begin": "2013-07-07",
+                "date_end": "2013-08-06"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5566",
+                "source": "Military Forces of Libya",
+                "target": "Civilians (International)",
+                "date_begin": "2013-06-02",
+                "date_end": "2013-07-02"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5567",
+                "source": "Military Forces of Libya",
+                "target": "Civilians (International)",
+                "date_begin": "2013-10-11",
+                "date_end": "2013-11-10"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5671",
+                "source": "Police Forces of Morocco",
+                "target": "Civilians (International)",
+                "date_begin": "2013-07-14",
+                "date_end": "2013-08-13"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5672",
+                "source": "Police Forces of Morocco",
+                "target": "Civilians (International)",
+                "date_begin": "2013-12-12",
+                "date_end": "2014-01-11"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5761",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-06-11",
+                "date_end": "2013-08-24"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5762",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-09-02",
+                "date_end": "2013-10-02"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5763",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-10-17",
+                "date_end": "2014-02-18"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5793",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-11-22",
+                "date_end": "2013-12-22"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5859",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-07-08",
+                "date_end": "2013-09-08"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5860",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-10-17",
+                "date_end": "2013-11-16"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5861",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Civilians (International)",
+                "date_begin": "2013-12-23",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5993",
+                "source": "Military Forces of Ivory Coast",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-08-11",
+                "date_end": "2013-09-10"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "5994",
+                "source": "Military Forces of Ivory Coast",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-09-21",
+                "date_end": "2013-10-21"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6011",
+                "source": "Militia (Pro-Alassane Ouattara)",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-12-03",
+                "date_end": "2014-01-02"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6067",
+                "source": "Police Forces of Morocco",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-08-01",
+                "date_end": "2013-08-31"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6088",
+                "source": "Unidentified Armed Group (Burkina Faso)",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-11-16",
+                "date_end": "2013-12-16"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6120",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-04-30",
+                "date_end": "2013-08-29"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6121",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-09-19",
+                "date_end": "2013-10-19"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6122",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Civilians (Ivory Coast)",
+                "date_begin": "2013-11-15",
+                "date_end": "2013-12-15"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6158",
+                "source": "Friends of PYJ Militia",
+                "target": "Civilians (Liberia)",
+                "date_begin": "2013-09-27",
+                "date_end": "2013-10-27"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6223",
+                "source": "Police Forces of Liberia",
+                "target": "Civilians (Liberia)",
+                "date_begin": "2013-09-18",
+                "date_end": "2013-11-01"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6249",
+                "source": "Private Security Forces (Liberia)",
+                "target": "Civilians (Liberia)",
+                "date_begin": "2013-07-24",
+                "date_end": "2013-08-23"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6252",
+                "source": "Sahnquoi Communal Militia (Liberia)",
+                "target": "Civilians (Liberia)",
+                "date_begin": "2013-10-05",
+                "date_end": "2013-11-04"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6273",
+                "source": "Unidentified Armed Group (Liberia)",
+                "target": "Civilians (Liberia)",
+                "date_begin": "2013-11-14",
+                "date_end": "2013-12-14"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6335",
+                "source": "LROR: Libya Revolutionaries Operations Room",
+                "target": "Civilians (Libya)",
+                "date_begin": "2013-10-10",
+                "date_end": "2013-11-09"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6349",
+                "source": "Military Forces of Libya",
+                "target": "Civilians (Libya)",
+                "date_begin": "2013-09-08",
+                "date_end": "2013-10-08"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6350",
+                "source": "Military Forces of Libya",
+                "target": "Civilians (Libya)",
+                "date_begin": "2013-12-01",
+                "date_end": "2013-12-31"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6403",
+                "source": "Misratah Communal Militia (Libya)",
+                "target": "Civilians (Libya)",
+                "date_begin": "2013-11-15",
+                "date_end": "2013-12-16"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6438",
+                "source": "Police Forces of Libya",
+                "target": "Civilians (Libya)",
+                "date_begin": "2013-06-17",
+                "date_end": "2013-07-17"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6439",
+                "source": "Police Forces of Libya",
+                "target": "Civilians (Libya)",
+                "date_begin": "2013-08-26",
+                "date_end": "2013-11-17"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6529",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Civilians (Libya)",
+                "date_begin": "2012-10-30",
+                "date_end": "2018-06-20"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6575",
+                "source": "Civilians (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-11-18",
+                "date_end": "2013-12-18"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6665",
+                "source": "Fulani Ethnic Militia (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-11-18",
+                "date_end": "2013-12-18"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6797",
+                "source": "Military Forces of Mali",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-06-01",
+                "date_end": "2013-07-01"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6798",
+                "source": "Military Forces of Mali",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-10-04",
+                "date_end": "2013-11-03"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6843",
+                "source": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-09-19",
+                "date_end": "2013-10-20"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6844",
+                "source": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-12-16",
+                "date_end": "2014-01-15"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6854",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-06-02",
+                "date_end": "2013-07-02"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6855",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-07-23",
+                "date_end": "2013-08-22"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6856",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-09-15",
+                "date_end": "2013-10-15"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6874",
+                "source": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-12-14",
+                "date_end": "2014-01-13"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6913",
+                "source": "Civilians (Mali)",
+                "target": "Tuareg Ethnic Group (Mali)",
+                "date_begin": "2013-11-18",
+                "date_end": "2013-12-18"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6918",
+                "source": "Tuareg Ethnic Militia (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-11-27",
+                "date_end": "2013-12-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6937",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-05-11",
+                "date_end": "2013-07-15"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6938",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-07-20",
+                "date_end": "2013-08-19"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6939",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-11-04",
+                "date_end": "2013-12-21"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "6956",
+                "source": "Unidentified Armed Group (Mauritania)",
+                "target": "Civilians (Mali)",
+                "date_begin": "2013-09-05",
+                "date_end": "2013-10-05"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7053",
+                "source": "Military Forces of Morocco",
+                "target": "Civilians (Morocco)",
+                "date_begin": "2013-06-01",
+                "date_end": "2013-07-01"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7070",
+                "source": "Militia (Students)",
+                "target": "Civilians (Morocco)",
+                "date_begin": "2013-06-22",
+                "date_end": "2013-07-22"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7072",
+                "source": "Muslim Militia (Morocco)",
+                "target": "Civilians (Morocco)",
+                "date_begin": "2013-10-01",
+                "date_end": "2013-10-31"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7087",
+                "source": "Police Forces of Morocco",
+                "target": "Civilians (Morocco)",
+                "date_begin": "2013-07-30",
+                "date_end": "2013-09-26"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7139",
+                "source": "Unidentified Armed Group (Morocco)",
+                "target": "Civilians (Morocco)",
+                "date_begin": "2013-10-24",
+                "date_end": "2013-12-06"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7285",
+                "source": "Military Forces of Niger",
+                "target": "Civilians (Niger)",
+                "date_begin": "2013-06-02",
+                "date_end": "2013-07-02"
+            },
+            "intersA": 8,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7372",
+                "source": "Unidentified Armed Group (Niger)",
+                "target": "Civilians (Niger)",
+                "date_begin": "2013-09-01",
+                "date_end": "2013-10-01"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7439",
+                "source": "Civilians (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-02-21",
+                "date_end": "2013-08-27"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7440",
+                "source": "Civilians (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-09",
+                "date_end": "2015-07-18"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7477",
+                "source": "Egbema Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-07-05",
+                "date_end": "2013-08-04"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7550",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-02-21",
+                "date_end": "2013-08-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7551",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-09",
+                "date_end": "2015-07-18"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7572",
+                "source": "Government of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-12-21",
+                "date_end": "2014-01-20"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7601",
+                "source": "Hausa Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-11-24",
+                "date_end": "2013-12-24"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7865",
+                "source": "MEND: Movement for the Emancipation of the Niger Delta",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-11-13",
+                "date_end": "2013-12-13"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7941",
+                "source": "Military Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-08-08",
+                "date_end": "2013-09-07"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7942",
+                "source": "Military Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-10-10",
+                "date_end": "2013-11-09"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7943",
+                "source": "Military Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-12-24",
+                "date_end": "2014-02-18"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7971",
+                "source": "Militia (Effiong Mbukpa)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-10-30"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "7979",
+                "source": "Civilians (Nigeria)",
+                "target": "Moroa Ethnic Militia (Nigeria)",
+                "date_begin": "2013-09-02",
+                "date_end": "2013-10-03"
+            },
+            "intersA": 7,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "8093",
+                "source": "Olpoma Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-08-22",
+                "date_end": "2013-09-21"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8148",
+                "source": "PDP: People's Democratic Party",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-16",
+                "date_end": "2013-10-16"
+            },
+            "intersA": 9,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8149",
+                "source": "PDP: People's Democratic Party",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-11-26",
+                "date_end": "2013-12-26"
+            },
+            "intersA": 9,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8246",
+                "source": "Police Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-08-07",
+                "date_end": "2013-09-18"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8247",
+                "source": "Police Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-29",
+                "date_end": "2013-10-29"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8248",
+                "source": "Police Forces of Nigeria",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-12-21",
+                "date_end": "2014-03-16"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8325",
+                "source": "Civilians (Nigeria)",
+                "target": "Tarok Ethnic Group (Nigeria)",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-27"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8332",
+                "source": "Tarok Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-07-27",
+                "date_end": "2013-08-29"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8333",
+                "source": "Tarok Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-09-15",
+                "date_end": "2013-10-15"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8334",
+                "source": "Civilians (Nigeria)",
+                "target": "Tarok Ethnic Militia (Nigeria)",
+                "date_begin": "2013-11-10",
+                "date_end": "2013-12-10"
+            },
+            "intersA": 7,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "8340",
+                "source": "Civilians (Nigeria)",
+                "target": "Tiv Ethnic Group (Nigeria)",
+                "date_begin": "2013-07-08",
+                "date_end": "2013-08-07"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8341",
+                "source": "Civilians (Nigeria)",
+                "target": "Tiv Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-07",
+                "date_end": "2013-12-07"
+            },
+            "intersA": 7,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8364",
+                "source": "Civilians (Nigeria)",
+                "target": "Tiv Ethnic Militia (Nigeria)",
+                "date_begin": "2013-07-05",
+                "date_end": "2013-08-25"
+            },
+            "intersA": 7,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "8365",
+                "source": "Civilians (Nigeria)",
+                "target": "Tiv Ethnic Militia (Nigeria)",
+                "date_begin": "2013-12-27",
+                "date_end": "2014-03-24"
+            },
+            "intersA": 7,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "8428",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-11-20",
+                "date_end": "2013-12-21"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8491",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-06-02",
+                "date_end": "2013-07-21"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8492",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-10-11",
+                "date_end": "2013-11-29"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8493",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-12-04",
+                "date_end": "2014-01-03"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8546",
+                "source": "Unidentified Ethnic Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-11-05",
+                "date_end": "2013-12-05"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8561",
+                "source": "Uwheru Communal Militia (Nigeria)",
+                "target": "Civilians (Nigeria)",
+                "date_begin": "2013-10-23",
+                "date_end": "2013-11-22"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8656",
+                "source": "Military Forces of Senegal",
+                "target": "Civilians (Senegal)",
+                "date_begin": "2013-07-02",
+                "date_end": "2013-08-01"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8670",
+                "source": "Police Forces of Senegal",
+                "target": "Civilians (Senegal)",
+                "date_begin": "2013-09-28",
+                "date_end": "2013-10-28"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8714",
+                "source": "Unidentified Armed Group (Senegal)",
+                "target": "Civilians (Senegal)",
+                "date_begin": "2013-12-07",
+                "date_end": "2014-01-06"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8800",
+                "source": "Police Forces of Sierra Leone",
+                "target": "Civilians (Sierra Leone)",
+                "date_begin": "2013-12-13",
+                "date_end": "2014-01-12"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8909",
+                "source": "Moba Communal Militia (Togo)",
+                "target": "Civilians (Togo)",
+                "date_begin": "2013-12-22",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8959",
+                "source": "Islamist Militia (Tunisia)",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-07-06",
+                "date_end": "2013-08-24"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "8967",
+                "source": "LPR: League for the Protection of the Revolution",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-27"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9002",
+                "source": "Police Forces of Tunisia",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-08-22",
+                "date_end": "2013-09-28"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9003",
+                "source": "Police Forces of Tunisia",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-11-01",
+                "date_end": "2013-12-11"
+            },
+            "intersA": 1,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9060",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-06-09",
+                "date_end": "2013-07-09"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9061",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-08-02",
+                "date_end": "2013-09-01"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9062",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-10-01",
+                "date_end": "2013-11-10"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9063",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Civilians (Tunisia)",
+                "date_begin": "2013-11-17",
+                "date_end": "2013-12-17"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "9240",
+                "source": "CPC: Congress for Progressive Change",
+                "target": "CPC: Congress for Progressive Change",
+                "date_begin": "2013-10-11",
+                "date_end": "2013-11-10"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "10084",
+                "source": "Ede Communal Militia (Nigeria)",
+                "target": "Ido-Osun Communal Militia (Nigeria)",
+                "date_begin": "2013-11-09",
+                "date_end": "2013-12-09"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "10116",
+                "source": "Egbema Ethnic Militia (Nigeria)",
+                "target": "Itsekiri Ethnic Group (Nigeria)",
+                "date_begin": "2013-07-05",
+                "date_end": "2013-08-04"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "10311",
+                "source": "Police Forces of Morocco",
+                "target": "February 20 Movement",
+                "date_begin": "2013-07-30",
+                "date_end": "2013-08-29"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "10558",
+                "source": "Former Military Forces of Ivory Coast",
+                "target": "Military Forces of Ivory Coast",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10560",
+                "source": "Former Military Forces of Ivory Coast",
+                "target": "Police Forces of Ivory Coast",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10562",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Former Military Forces of Ivory Coast",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10576",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Former Military Forces of Libya",
+                "date_begin": "2013-11-14",
+                "date_end": "2013-12-29"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10577",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Former Military Forces of Libya",
+                "date_begin": "2013-12-29",
+                "date_end": "2013-12-29"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "10578",
+                "source": "Former Military Forces of Libya",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-12-29",
+                "date_end": "2014-03-02"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "10933",
+                "source": "Tuareg Ethnic Militia (Mali)",
+                "target": "Fulani Ethnic Group (Mali)",
+                "date_begin": "2013-11-27",
+                "date_end": "2013-12-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11081",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Fulani Ethnic Group (Nigeria)",
+                "date_begin": "2013-07-26",
+                "date_end": "2013-08-25"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11090",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Fulani Ethnic Group (Nigeria)",
+                "date_begin": "2013-07-26",
+                "date_end": "2013-09-14"
+            },
+            "intersA": 3,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11270",
+                "source": "Fulani Ethnic Militia (Mali)",
+                "target": "Tuareg Ethnic Group (Mali)",
+                "date_begin": "2013-11-18",
+                "date_end": "2013-12-18"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11321",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Hausa Ethnic Militia (Nigeria)",
+                "date_begin": "2013-11-24",
+                "date_end": "2013-12-24"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11422",
+                "source": "Military Forces of Nigeria",
+                "target": "Fulani Ethnic Militia (Nigeria)",
+                "date_begin": "2013-10-10",
+                "date_end": "2013-11-09"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11453",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Moroa Ethnic Militia (Nigeria)",
+                "date_begin": "2013-09-02",
+                "date_end": "2013-10-03"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11550",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Tarok Ethnic Group (Nigeria)",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-27"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11556",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Tarok Ethnic Militia (Nigeria)",
+                "date_begin": "2013-11-10",
+                "date_end": "2013-12-10"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11561",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Tiv Ethnic Group (Nigeria)",
+                "date_begin": "2013-07-08",
+                "date_end": "2013-08-07"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11562",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Tiv Ethnic Group (Nigeria)",
+                "date_begin": "2013-11-07",
+                "date_end": "2013-12-07"
+            },
+            "intersA": 4,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "11583",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Tiv Ethnic Militia (Nigeria)",
+                "date_begin": "2013-07-05",
+                "date_end": "2013-08-04"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11584",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Tiv Ethnic Militia (Nigeria)",
+                "date_begin": "2013-12-27",
+                "date_end": "2014-03-24"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11611",
+                "source": "Fulani Ethnic Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-09-01",
+                "date_end": "2013-10-01"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "11612",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Fulani Ethnic Militia (Nigeria)",
+                "date_begin": "2013-10-15",
+                "date_end": "2013-11-24"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11623",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Fulani Ethnic Militia (Nigeria)",
+                "date_begin": "2013-10-11",
+                "date_end": "2013-11-29"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11665",
+                "source": "Moba Communal Militia (Togo)",
+                "target": "Fulani Ethnic Militia (Togo)",
+                "date_begin": "2013-12-22",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11778",
+                "source": "Zintan Ethnic Militia (Libya)",
+                "target": "Garamna Ethnic Militia (Libya)",
+                "date_begin": "2013-09-13",
+                "date_end": "2013-10-13"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "11900",
+                "source": "Nakpando Ethnic Militia (Ghana)",
+                "target": "Gbadagbam Ethnic Militia (Ghana)",
+                "date_begin": "2013-07-02",
+                "date_end": "2013-08-01"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "12311",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Government of France",
+                "date_begin": "2013-07-05",
+                "date_end": "2013-08-04"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "12341",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Government of Italy",
+                "date_begin": "2013-06-11",
+                "date_end": "2013-07-11"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "12343",
+                "source": "Unidentified Armed Group (Burkina Faso)",
+                "target": "Government of Ivory Coast",
+                "date_begin": "2013-11-16",
+                "date_end": "2013-12-16"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12345",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Government of Ivory Coast",
+                "date_begin": "2013-07-15",
+                "date_end": "2013-08-14"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12365",
+                "source": "LROR: Libya Revolutionaries Operations Room",
+                "target": "Government of Libya",
+                "date_begin": "2013-10-10",
+                "date_end": "2013-11-09"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12368",
+                "source": "Military Forces of Libya",
+                "target": "Government of Libya",
+                "date_begin": "2013-09-08",
+                "date_end": "2013-10-08"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12408",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Government of Libya",
+                "date_begin": "2013-09-13",
+                "date_end": "2013-11-09"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12501",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Government of Mali",
+                "date_begin": "2013-09-15",
+                "date_end": "2013-10-15"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12622",
+                "source": "Police Forces of Nigeria",
+                "target": "Government of Nigeria",
+                "date_begin": "2013-12-21",
+                "date_end": "2014-01-20"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12661",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Government of Nigeria",
+                "date_begin": "2013-06-03",
+                "date_end": "2013-08-15"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12662",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Government of Nigeria",
+                "date_begin": "2013-08-20",
+                "date_end": "2013-10-27"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12663",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Government of Nigeria",
+                "date_begin": "2013-11-22",
+                "date_end": "2013-12-22"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12708",
+                "source": "Uwheru Communal Militia (Nigeria)",
+                "target": "Government of Nigeria",
+                "date_begin": "2013-10-23",
+                "date_end": "2013-11-22"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12720",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Government of Pakistan",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "12738",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Government of United Arab Emirates",
+                "date_begin": "2013-07-25",
+                "date_end": "2013-08-24"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "12824",
+                "source": "Guere Ethnic Militia (Ivory Coast)",
+                "target": "Malinke Ethnic Militia (Ivory Coast)",
+                "date_begin": "2013-08-26",
+                "date_end": "2013-09-25"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "12829",
+                "source": "Konianke Ethnic Militia (Guinea)",
+                "target": "Guerze Ethnic Militia (Guinea)",
+                "date_begin": "2013-07-15",
+                "date_end": "2013-08-16"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "12914",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Hausa Ethnic Militia (Nigeria)",
+                "date_begin": "2013-08-10",
+                "date_end": "2013-09-09"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13151",
+                "source": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "target": "Igbo Ethnic Militia (Nigeria)",
+                "date_begin": "2013-07-14",
+                "date_end": "2013-08-13"
+            },
+            "intersA": 2,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "13157",
+                "source": "Igbo Ethnic Militia (Nigeria)",
+                "target": "Unidentified Clan Militia (Somalia)",
+                "date_begin": "2013-06-20",
+                "date_end": "2013-07-20"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "14296",
+                "source": "Military Forces of Algeria",
+                "target": "Islamist Militia (Algeria)",
+                "date_begin": "2013-06-29",
+                "date_end": "2013-07-29"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14297",
+                "source": "Military Forces of Algeria",
+                "target": "Islamist Militia (Algeria)",
+                "date_begin": "2013-09-05",
+                "date_end": "2013-10-27"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14298",
+                "source": "Military Forces of Algeria",
+                "target": "Islamist Militia (Algeria)",
+                "date_begin": "2013-11-11",
+                "date_end": "2014-01-01"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14341",
+                "source": "Police Forces of Algeria",
+                "target": "Islamist Militia (Algeria)",
+                "date_begin": "2013-08-31",
+                "date_end": "2013-09-30"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14372",
+                "source": "Military Forces of France",
+                "target": "Islamist Militia (Mali)",
+                "date_begin": "2013-12-10",
+                "date_end": "2014-01-09"
+            },
+            "intersA": 8,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14377",
+                "source": "Military Forces of Mali",
+                "target": "Islamist Militia (Mali)",
+                "date_begin": "2013-12-23",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14392",
+                "source": "Islamist Militia (Mali)",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2013-12-14",
+                "date_end": "2014-01-13"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "14399",
+                "source": "Islamist Militia (Mali)",
+                "target": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "date_begin": "2013-12-23",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 3,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "14419",
+                "source": "Military Forces of Algeria",
+                "target": "Islamist Militia (Tunisia)",
+                "date_begin": "2013-08-04",
+                "date_end": "2013-09-03"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14422",
+                "source": "Military Forces of Tunisia",
+                "target": "Islamist Militia (Tunisia)",
+                "date_begin": "2013-08-02",
+                "date_end": "2013-09-25"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14423",
+                "source": "Military Forces of Tunisia",
+                "target": "Islamist Militia (Tunisia)",
+                "date_begin": "2013-10-11",
+                "date_end": "2013-12-21"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14434",
+                "source": "Islamist Militia (Tunisia)",
+                "target": "PF: Popular Front",
+                "date_begin": "2013-07-25",
+                "date_end": "2013-08-24"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "14441",
+                "source": "Police Forces of Tunisia",
+                "target": "Islamist Militia (Tunisia)",
+                "date_begin": "2013-08-06",
+                "date_end": "2013-09-05"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15057",
+                "source": "Kalabari Ethnic Militia (Nigeria)",
+                "target": "Unidentified Ethnic Militia (Nigeria)",
+                "date_begin": "2013-09-17",
+                "date_end": "2013-10-17"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15403",
+                "source": "Kidal Communal Militia (Mali)",
+                "target": "Tuareg Ethnic Militia (Mali)",
+                "date_begin": "2013-07-19",
+                "date_end": "2013-08-18"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15598",
+                "source": "Military Forces of Libya",
+                "target": "Libya Shield Brigade",
+                "date_begin": "2013-06-09",
+                "date_end": "2013-07-09"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15611",
+                "source": "Misratah Communal Militia (Libya)",
+                "target": "Libya Shield Brigade",
+                "date_begin": "2013-11-16",
+                "date_end": "2013-12-16"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15622",
+                "source": "Police Forces of Libya",
+                "target": "Libya Shield Brigade",
+                "date_begin": "2013-10-18",
+                "date_end": "2013-11-17"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15627",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Libya Shield Brigade",
+                "date_begin": "2013-10-18",
+                "date_end": "2013-11-21"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15628",
+                "source": "Libya Shield Brigade",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-12-01",
+                "date_end": "2013-12-31"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15702",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "LP: Labor Party",
+                "date_begin": "2013-12-16",
+                "date_end": "2014-01-15"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "15845",
+                "source": "Malinke Ethnic Militia (Ivory Coast)",
+                "target": "Yacouba Ethnic Militia (Ivory Coast)",
+                "date_begin": "2013-07-27",
+                "date_end": "2013-08-26"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "15915",
+                "source": "Military Forces of Nigeria",
+                "target": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "date_begin": "2013-06-08",
+                "date_end": "2013-07-08"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "15918",
+                "source": "Omelugboma Communal Militia (Nigeria)",
+                "target": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "date_begin": "2013-08-07",
+                "date_end": "2013-09-06"
+            },
+            "intersA": 4,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "15933",
+                "source": "Police Forces of Nigeria",
+                "target": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "date_begin": "2013-06-04",
+                "date_end": "2013-07-04"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "15934",
+                "source": "Police Forces of Nigeria",
+                "target": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "date_begin": "2013-08-07",
+                "date_end": "2013-09-06"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "15941",
+                "source": "MASSOB: Movement for the Actualization of a Sovereign State of Biafra",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-11-11",
+                "date_end": "2013-12-11"
+            },
+            "intersA": 2,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "15999",
+                "source": "Medina Beye Communal Militia (Senegal)",
+                "target": "Ndiobene Galo Communal Militia (Senegal)",
+                "date_begin": "2013-08-01",
+                "date_end": "2013-08-31"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "16020",
+                "source": "Military Forces of Nigeria",
+                "target": "MEND: Movement for the Emancipation of the Niger Delta",
+                "date_begin": "2013-11-13",
+                "date_end": "2013-12-13"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "16164",
+                "source": "Military Forces of Tunisia",
+                "target": "Military Forces of Algeria",
+                "date_begin": "2013-08-04",
+                "date_end": "2013-09-03"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16170",
+                "source": "Military Forces of Algeria",
+                "target": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "date_begin": "2013-05-22",
+                "date_end": "2013-07-13"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "16171",
+                "source": "Military Forces of Algeria",
+                "target": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "date_begin": "2013-07-27",
+                "date_end": "2013-08-26"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "16254",
+                "source": "Military Forces of Algeria",
+                "target": "Unidentified Armed Group (Algeria)",
+                "date_begin": "2012-12-03",
+                "date_end": "2014-02-21"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "16292",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Military Forces of Algeria",
+                "date_begin": "2013-09-17",
+                "date_end": "2013-12-10"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16295",
+                "source": "Military Forces of Algeria",
+                "target": "Unidentified Armed Group (Mauritania)",
+                "date_begin": "2013-12-04",
+                "date_end": "2014-01-03"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "16298",
+                "source": "Military Forces of Algeria",
+                "target": "Unidentified Armed Group (Tunisia)",
+                "date_begin": "2013-08-03",
+                "date_end": "2013-09-02"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "16317",
+                "source": "Military Forces of Burkina Faso",
+                "target": "Military Forces of Burkina Faso",
+                "date_begin": "2013-08-31",
+                "date_end": "2013-09-30"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16498",
+                "source": "Seleka Rebel Coalition",
+                "target": "Military Forces of Cameroon",
+                "date_begin": "2013-11-16",
+                "date_end": "2013-12-16"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "16541",
+                "source": "Military Forces of Cameroon",
+                "target": "Unidentified Armed Group (Central African Republic)",
+                "date_begin": "2013-12-05",
+                "date_end": "2014-01-26"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "16744",
+                "source": "Military Forces of Mali",
+                "target": "Military Forces of France",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-11-29"
+            },
+            "intersA": 1,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "16760",
+                "source": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "target": "Military Forces of France",
+                "date_begin": "2013-12-16",
+                "date_end": "2014-01-15"
+            },
+            "intersA": 8,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "16788",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Military Forces of France",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-10-31"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "16789",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Military Forces of France",
+                "date_begin": "2013-11-20",
+                "date_end": "2014-01-15"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "16994",
+                "source": "Police Forces of Ivory Coast",
+                "target": "Military Forces of Ivory Coast",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17029",
+                "source": "Military Forces of Ivory Coast",
+                "target": "Unidentified Armed Group (Ivory Coast)",
+                "date_begin": "2013-05-21",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "17030",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Military Forces of Ivory Coast",
+                "date_begin": "2013-09-05",
+                "date_end": "2013-11-25"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17084",
+                "source": "Military Forces of Libya",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-12-01",
+                "date_end": "2013-12-31"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17192",
+                "source": "Misratah Communal Militia (Libya)",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-11-16",
+                "date_end": "2013-12-18"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17238",
+                "source": "Police Forces of Libya",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-11-29",
+                "date_end": "2014-02-09"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17437",
+                "source": "Toubou Ethnic Militia (Libya)",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-12-20",
+                "date_end": "2014-02-19"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17480",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-04-12",
+                "date_end": "2015-05-18"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17525",
+                "source": "Military Forces of Libya",
+                "target": "Wershefana Communal Militia (Libya)",
+                "date_begin": "2013-10-09",
+                "date_end": "2013-11-08"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "17531",
+                "source": "Military Forces of Libya",
+                "target": "Zawiya Communal Militia (Libya)",
+                "date_begin": "2013-10-09",
+                "date_end": "2013-11-08"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "17543",
+                "source": "Zintan Ethnic Militia (Libya)",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-06-26",
+                "date_end": "2013-07-26"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17553",
+                "source": "Zwai Ethnic Militia (Libya)",
+                "target": "Military Forces of Libya",
+                "date_begin": "2013-12-20",
+                "date_end": "2014-01-21"
+            },
+            "intersA": 4,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17556",
+                "source": "Military Forces of Mali",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-10-04",
+                "date_end": "2013-11-03"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17594",
+                "source": "Military Forces of Mali",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-10-30"
+            },
+            "intersA": 1,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "17618",
+                "source": "Military Forces of Mali",
+                "target": "MNLA: National Movement for the Liberation of Azawad",
+                "date_begin": "2013-06-05",
+                "date_end": "2013-07-05"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "17619",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-08-14",
+                "date_end": "2013-10-30"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17620",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-11-08",
+                "date_end": "2013-12-08"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17636",
+                "source": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-10-07",
+                "date_end": "2013-11-07"
+            },
+            "intersA": 2,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17637",
+                "source": "Military Forces of Mali",
+                "target": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "date_begin": "2013-12-23",
+                "date_end": "2014-01-22"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "17697",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "Military Forces of Mali",
+                "date_begin": "2013-09-27",
+                "date_end": "2013-10-31"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "17698",
+                "source": "Military Forces of Mali",
+                "target": "Unidentified Armed Group (Mali)",
+                "date_begin": "2013-12-26",
+                "date_end": "2014-01-25"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "17878",
+                "source": "Those Who Signed in Blood",
+                "target": "Military Forces of Niger",
+                "date_begin": "2013-06-01",
+                "date_end": "2013-07-01"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "17899",
+                "source": "Military Forces of Niger",
+                "target": "Unidentified Armed Group (Niger)",
+                "date_begin": "2013-09-03",
+                "date_end": "2013-10-04"
+            },
+            "intersA": 8,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "17926",
+                "source": "Military Forces of Niger",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-10-02",
+                "date_end": "2013-11-01"
+            },
+            "intersA": 8,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "17966",
+                "source": "Military Forces of Nigeria",
+                "target": "Mutiny of Military Forces of Nigeria",
+                "date_begin": "2013-09-04",
+                "date_end": "2013-10-04"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18012",
+                "source": "Military Forces of Nigeria",
+                "target": "PDP: People's Democratic Party",
+                "date_begin": "2013-11-26",
+                "date_end": "2013-12-26"
+            },
+            "intersA": 1,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "18018",
+                "source": "Military Forces of Nigeria",
+                "target": "Pirates (Nigeria)",
+                "date_begin": "2013-08-19",
+                "date_end": "2013-09-24"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18074",
+                "source": "Military Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-06-27",
+                "date_end": "2013-07-18"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18075",
+                "source": "Military Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-07-18",
+                "date_end": "2013-08-04"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18076",
+                "source": "Military Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-08-04",
+                "date_end": "2013-08-12"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18077",
+                "source": "Military Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-08-12",
+                "date_end": "2013-09-11"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18078",
+                "source": "Military Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-10-24",
+                "date_end": "2013-11-23"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18079",
+                "source": "Police Forces of Nigeria",
+                "target": "Military Forces of Nigeria",
+                "date_begin": "2013-12-18",
+                "date_end": "2014-01-16"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18186",
+                "source": "Military Forces of Nigeria",
+                "target": "Tarok Ethnic Militia (Nigeria)",
+                "date_begin": "2013-07-27",
+                "date_end": "2013-08-26"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "18242",
+                "source": "Military Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-07-24",
+                "date_end": "2013-09-17"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18243",
+                "source": "Military Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-09-23",
+                "date_end": "2013-11-20"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18244",
+                "source": "Military Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-11-24",
+                "date_end": "2013-12-24"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18362",
+                "source": "Unidentified Armed Group (Senegal)",
+                "target": "Military Forces of Senegal",
+                "date_begin": "2013-08-07",
+                "date_end": "2013-09-06"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "18561",
+                "source": "Military Forces of Tunisia",
+                "target": "Unidentified Armed Group (Algeria)",
+                "date_begin": "2013-09-16",
+                "date_end": "2013-10-16"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18562",
+                "source": "Military Forces of Tunisia",
+                "target": "Unidentified Armed Group (Algeria)",
+                "date_begin": "2013-10-23",
+                "date_end": "2013-11-22"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18578",
+                "source": "Military Forces of Tunisia",
+                "target": "Unidentified Armed Group (Tunisia)",
+                "date_begin": "2013-05-04",
+                "date_end": "2013-07-03"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18579",
+                "source": "Military Forces of Tunisia",
+                "target": "Unidentified Armed Group (Tunisia)",
+                "date_begin": "2013-07-29",
+                "date_end": "2013-08-28"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18580",
+                "source": "Military Forces of Tunisia",
+                "target": "Unidentified Armed Group (Tunisia)",
+                "date_begin": "2013-10-16",
+                "date_end": "2014-01-01"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18625",
+                "source": "Military Forces of United States",
+                "target": "Pirates (Nigeria)",
+                "date_begin": "2013-10-23",
+                "date_end": "2013-11-22"
+            },
+            "intersA": 8,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18628",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Military Forces of United States",
+                "date_begin": "2013-09-15",
+                "date_end": "2013-10-15"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "18702",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2013-08-29",
+                "date_end": "2013-09-28"
+            },
+            "intersA": 2,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "18703",
+                "source": "MNLA: National Movement for the Liberation of Azawad",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2013-09-30",
+                "date_end": "2013-10-30"
+            },
+            "intersA": 2,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "18712",
+                "source": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "target": "Tuareg Ethnic Militia (Mali)",
+                "date_begin": "2013-12-16",
+                "date_end": "2014-01-15"
+            },
+            "intersA": 8,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "18713",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali",
+                "date_begin": "2013-11-30",
+                "date_end": "2014-02-19"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "18775",
+                "source": "Misratah Communal Militia (Libya)",
+                "target": "Tripoli Communal Militia (Libya)",
+                "date_begin": "2013-11-05",
+                "date_end": "2013-12-07"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "18828",
+                "source": "Unidentified Armed Group (Senegal)",
+                "target": "MLK: Free Karim Movement",
+                "date_begin": "2013-12-07",
+                "date_end": "2014-01-06"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "18843",
+                "source": "Unidentified Armed Group (Mali)",
+                "target": "MNLA: National Movement for the Liberation of Azawad",
+                "date_begin": "2013-06-04",
+                "date_end": "2013-07-04"
+            },
+            "intersA": 3,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "18907",
+                "source": "Unidentified Armed Group (Cameroon)",
+                "target": "MRC: Movement for Renewal of Cameroon",
+                "date_begin": "2013-08-15",
+                "date_end": "2013-09-14"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "18945",
+                "source": "MUJAO: Movement for Unity and Jihad in West Africa",
+                "target": "Tuareg Ethnic Group (Mali)",
+                "date_begin": "2013-12-14",
+                "date_end": "2014-01-13"
+            },
+            "intersA": 2,
+            "intersB": 7
+        },
+        {
+            "data": {
+                "id": "18986",
+                "source": "Muslim Militia (Togo)",
+                "target": "Muslim Militia (Togo)",
+                "date_begin": "2013-08-09",
+                "date_end": "2013-09-08"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19028",
+                "source": "Nanan Communal Militia (Ivory Coast)",
+                "target": "Nanan Communal Militia (Ivory Coast)",
+                "date_begin": "2013-10-31",
+                "date_end": "2013-11-30"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19197",
+                "source": "NPP: New Patriotic Party",
+                "target": "NPP: New Patriotic Party",
+                "date_begin": "2013-11-03",
+                "date_end": "2013-12-03"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19206",
+                "source": "Unidentified Armed Group (Ghana)",
+                "target": "NPP: New Patriotic Party",
+                "date_begin": "2013-06-21",
+                "date_end": "2013-07-21"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19308",
+                "source": "Onitsha Communal Militia (Nigeria)",
+                "target": "Obosi Communal Militia (Nigeria)",
+                "date_begin": "2013-06-17",
+                "date_end": "2013-07-17"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19363",
+                "source": "Okada Motorcycle Militia",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-10-07",
+                "date_end": "2013-11-06"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19411",
+                "source": "Police Forces of Nigeria",
+                "target": "Omelugboma Communal Militia (Nigeria)",
+                "date_begin": "2013-08-07",
+                "date_end": "2013-09-06"
+            },
+            "intersA": 1,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "19436",
+                "source": "Police Forces of Nigeria",
+                "target": "OPC: Oodua Peoples Congress",
+                "date_begin": "2013-08-27",
+                "date_end": "2013-09-26"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19587",
+                "source": "PDP: People's Democratic Party",
+                "target": "PDP: People's Democratic Party",
+                "date_begin": "2013-06-24",
+                "date_end": "2013-07-24"
+            },
+            "intersA": 9,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "19644",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "PDP: People's Democratic Party",
+                "date_begin": "2013-07-16",
+                "date_end": "2013-08-15"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "19645",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "PDP: People's Democratic Party",
+                "date_begin": "2013-10-21",
+                "date_end": "2013-11-20"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "19646",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "PDP: People's Democratic Party",
+                "date_begin": "2013-11-21",
+                "date_end": "2014-02-18"
+            },
+            "intersA": 3,
+            "intersB": 9
+        },
+        {
+            "data": {
+                "id": "19780",
+                "source": "Police Forces of Algeria",
+                "target": "Unidentified Armed Group (Algeria)",
+                "date_begin": "2013-08-06",
+                "date_end": "2013-10-01"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19868",
+                "source": "Police Forces of Cameroon",
+                "target": "Seleka Rebel Coalition",
+                "date_begin": "2013-08-20",
+                "date_end": "2013-09-19"
+            },
+            "intersA": 1,
+            "intersB": 2
+        },
+        {
+            "data": {
+                "id": "19887",
+                "source": "Police Forces of Cameroon",
+                "target": "Unidentified Armed Group (Central African Republic)",
+                "date_begin": "2013-08-19",
+                "date_end": "2013-09-18"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19910",
+                "source": "Police Forces of Ghana",
+                "target": "Unidentified Armed Group (Ghana)",
+                "date_begin": "2013-05-31",
+                "date_end": "2013-06-30"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19934",
+                "source": "RPG: Rally of the Guinean People",
+                "target": "Police Forces of Guinea",
+                "date_begin": "2013-09-17",
+                "date_end": "2013-10-17"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19938",
+                "source": "UFDG: Union of Democratic Forces of Guinea",
+                "target": "Police Forces of Guinea",
+                "date_begin": "2013-09-17",
+                "date_end": "2013-10-17"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19942",
+                "source": "Unidentified Armed Group (Guinea)",
+                "target": "Police Forces of Guinea",
+                "date_begin": "2013-12-08",
+                "date_end": "2014-01-07"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19975",
+                "source": "Unidentified Armed Group (Ivory Coast)",
+                "target": "Police Forces of Ivory Coast",
+                "date_begin": "2013-07-01",
+                "date_end": "2013-07-31"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "19976",
+                "source": "Police Forces of Ivory Coast",
+                "target": "Unidentified Armed Group (Ivory Coast)",
+                "date_begin": "2013-09-13",
+                "date_end": "2013-10-13"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19977",
+                "source": "Police Forces of Ivory Coast",
+                "target": "Unidentified Armed Group (Ivory Coast)",
+                "date_begin": "2013-12-04",
+                "date_end": "2014-01-03"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "19994",
+                "source": "Police Forces of Ivory Coast",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-09-11",
+                "date_end": "2013-10-11"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20051",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Police Forces of Libya",
+                "date_begin": "2013-07-21",
+                "date_end": "2013-10-18"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20052",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Police Forces of Libya",
+                "date_begin": "2013-10-18",
+                "date_end": "2013-10-18"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20053",
+                "source": "Police Forces of Libya",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-10-18",
+                "date_end": "2014-11-05"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20154",
+                "source": "Police Forces of Mauritania",
+                "target": "Unidentified Armed Group (Mauritania)",
+                "date_begin": "2013-07-04",
+                "date_end": "2013-08-03"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20240",
+                "source": "Police Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-09-04",
+                "date_end": "2013-10-04"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20241",
+                "source": "Police Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-10-19",
+                "date_end": "2013-11-18"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20242",
+                "source": "Police Forces of Nigeria",
+                "target": "Police Forces of Nigeria",
+                "date_begin": "2013-11-25",
+                "date_end": "2013-12-25"
+            },
+            "intersA": 1,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20333",
+                "source": "Police Forces of Nigeria",
+                "target": "Unidentified Armed Group (China)",
+                "date_begin": "2013-06-24",
+                "date_end": "2013-07-24"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20400",
+                "source": "Police Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-06-24",
+                "date_end": "2013-11-05"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20401",
+                "source": "Police Forces of Nigeria",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-11-11",
+                "date_end": "2014-05-01"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20548",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Police Forces of Tunisia",
+                "date_begin": "2013-07-27",
+                "date_end": "2013-09-20"
+            },
+            "intersA": 3,
+            "intersB": 1
+        },
+        {
+            "data": {
+                "id": "20549",
+                "source": "Police Forces of Tunisia",
+                "target": "Unidentified Armed Group (Tunisia)",
+                "date_begin": "2013-10-24",
+                "date_end": "2013-11-24"
+            },
+            "intersA": 1,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20621",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Private Security Forces (Libya)",
+                "date_begin": "2013-10-28",
+                "date_end": "2013-11-27"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "20660",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Private Security Forces (Nigeria)",
+                "date_begin": "2013-07-07",
+                "date_end": "2013-08-06"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "20679",
+                "source": "Unidentified Armed Group (Senegal)",
+                "target": "Private Security Forces (Senegal)",
+                "date_begin": "2013-09-06",
+                "date_end": "2013-10-06"
+            },
+            "intersA": 3,
+            "intersB": 8
+        },
+        {
+            "data": {
+                "id": "20750",
+                "source": "UFDG: Union of Democratic Forces of Guinea",
+                "target": "RPG: Rally of the Guinean People",
+                "date_begin": "2013-09-05",
+                "date_end": "2013-09-17"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20751",
+                "source": "UFDG: Union of Democratic Forces of Guinea",
+                "target": "RPG: Rally of the Guinean People",
+                "date_begin": "2013-09-17",
+                "date_end": "2013-09-24"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "20752",
+                "source": "UFDG: Union of Democratic Forces of Guinea",
+                "target": "RPG: Rally of the Guinean People",
+                "date_begin": "2013-09-24",
+                "date_end": "2013-10-24"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21032",
+                "source": "Tenkodogo Communal Militia (Burkina Faso)",
+                "target": "Tenkodogo Communal Militia (Burkina Faso)",
+                "date_begin": "2013-09-28",
+                "date_end": "2013-10-28"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21047",
+                "source": "Tiv Ethnic Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-07-26",
+                "date_end": "2013-08-25"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21091",
+                "source": "Toubou Ethnic Militia (Libya)",
+                "target": "Zwai Ethnic Militia (Libya)",
+                "date_begin": "2013-12-09",
+                "date_end": "2014-01-21"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21178",
+                "source": "UFDG: Union of Democratic Forces of Guinea",
+                "target": "UNR: Union for the New Republic",
+                "date_begin": "2013-08-29",
+                "date_end": "2013-09-28"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21240",
+                "source": "Unidentified Armed Group (Tunisia)",
+                "target": "Unidentified Armed Group (Algeria)",
+                "date_begin": "2013-10-23",
+                "date_end": "2013-11-22"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21275",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Unidentified Armed Group (China)",
+                "date_begin": "2013-06-24",
+                "date_end": "2013-07-24"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21320",
+                "source": "Unidentified Armed Group (Libya)",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-08-11",
+                "date_end": "2014-01-28"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21378",
+                "source": "Zintan Ethnic Militia (Libya)",
+                "target": "Unidentified Armed Group (Libya)",
+                "date_begin": "2013-06-25",
+                "date_end": "2013-07-25"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21432",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-10-04",
+                "date_end": "2013-11-03"
+            },
+            "intersA": 3,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21449",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-07-21",
+                "date_end": "2013-08-20"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21450",
+                "source": "Unidentified Armed Group (Nigeria)",
+                "target": "Unidentified Communal Militia (Nigeria)",
+                "date_begin": "2013-08-22",
+                "date_end": "2013-09-21"
+            },
+            "intersA": 3,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21451",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Unidentified Armed Group (Nigeria)",
+                "date_begin": "2013-10-21",
+                "date_end": "2013-11-20"
+            },
+            "intersA": 4,
+            "intersB": 3
+        },
+        {
+            "data": {
+                "id": "21536",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Unidentified Communal Militia (Nigeria)",
+                "date_begin": "2013-10-21",
+                "date_end": "2014-01-10"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21555",
+                "source": "Unidentified Communal Militia (Nigeria)",
+                "target": "Unidentified Ethnic Militia (Nigeria)",
+                "date_begin": "2013-09-24",
+                "date_end": "2013-10-24"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21589",
+                "source": "Unidentified Ethnic Militia (Ivory Coast)",
+                "target": "Unidentified Ethnic Militia (Ivory Coast)",
+                "date_begin": "2013-07-12",
+                "date_end": "2013-08-11"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21618",
+                "source": "Wershefana Communal Militia (Libya)",
+                "target": "Zawiya Communal Militia (Libya)",
+                "date_begin": "2013-08-22",
+                "date_end": "2013-09-23"
+            },
+            "intersA": 4,
+            "intersB": 4
+        },
+        {
+            "data": {
+                "id": "21619",
+                "source": "Wershefana Communal Militia (Libya)",
+                "target": "Zawiya Communal Militia (Libya)",
+                "date_begin": "2013-10-09",
+                "date_end": "2013-11-08"
+            },
+            "intersA": 4,
+            "intersB": 4
+        }
+    ]
+}
